@@ -1,5 +1,6 @@
 clash订阅:
 - http://188.213.196.100:8585/clash/proxies
+- http://37.32.27.116:8080/clash/proxies
 - https://clash.shinvck.com/clash.yml
 - https://fku-ppg.co.uk/?clash=3
 - https://ghproxy.com/https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
@@ -11,6 +12,10 @@ v2订阅:
 - http://188.213.196.100:8585/ssr/sub
 - http://188.213.196.100:8585/trojan/sub
 - http://188.213.196.100:8585/vmess/sub
+- http://37.32.27.116:8080/sip002/sub
+- http://37.32.27.116:8080/ssr/sub
+- http://37.32.27.116:8080/trojan/sub
+- http://37.32.27.116:8080/vmess/sub
 - https://ghproxy.com/https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub
 - https://github.com/ssrsub/ssr/raw/master/V2Ray
 - https://github.com/ssrsub/ssr/raw/master/ss-sub
@@ -35,6 +40,7 @@ v2订阅:
 - https://gsoustar.cloud/link/u2j3b90LSFgQ0Xik?sub=3
 - https://host.ssrbox.com/api/v1/client/subscribe?token=210989356ed1cc904b2c27ac66fb6796
 - https://hutaod.com/link/CEdVHJuVLRCVpYKa?clash=1
+- https://knjc.cfd/api/v1/client/subscribe?token=19bcb619bab154e205329f7494d2ad65
 - https://knjc.cfd/api/v1/client/subscribe?token=afb878a389fbfc09e826e308afb26015
 - https://lafuseevansbazc.only4subs.uk/api/v1/client/subscribe?token=1eadb3f66a6afc2964758b205e9a6245
 - https://microsoft-update-daily.com/api/v1/client/subscribe?token=d0d537001a9c1a37f601c08a4b1c7441
@@ -42,6 +48,7 @@ v2订阅:
 - https://mojie.best/api/v1/client/subscribe?token=ebe9a3efecf46022fad2d9bb7f072748
 - https://mojie.best/api/v1/client/subscribe?token=fff446368097db5b2708d69fc7f998e6
 - https://mytoken.huyun.nl/api/v1/client/subscribe?token=5a142252bc2760f51ce198e3ca66046b
+- https://pqjc.site/api/v1/client/subscribe?token=ace0137a734f44d3d73860d284fa1587
 - https://s.trojanflare.com/clashx/a81227ee-aa07-4635-af45-ed36c5a075a7
 - https://sub.narutos.link/api/v1/client/subscribe?token=49097303dda9f79af1663aafd06a78be
 - https://sub.riolu.link/api/v1/client/subscribe?token=85767f48cea67e6f7652bf6c6e9d5b69&amp;flag=clash
