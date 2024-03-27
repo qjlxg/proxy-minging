@@ -1,11 +1,13 @@
 clash订阅:
 - https://clash.shinvck.com/clash.yml
 - https://fku-ppg.co.uk/?clash=3
+- https://ghproxy.com/https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
 - https://github.com/ssrsub/ssr/raw/master/Clash.yml
 - https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
 - https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yml
 v2订阅:
 - https://api.zuanshivpn.cn/subscribe/shadowrocket/MGNmNTIwMTYtYmE5OC0zMTlkLWRlOGMtODRkYmZhYzljY2Nj
+- https://ghproxy.com/https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub
 - https://github.com/ssrsub/ssr/raw/master/V2Ray
 - https://github.com/ssrsub/ssr/raw/master/ss-sub
 - https://github.com/ssrsub/ssr/raw/master/ssrsub
@@ -58,7 +60,9 @@ v2订阅:
 - https://v.spwvpn.com/api/v1/client/subscribe?token=7e74ad048efcc0b93f4293dad4e51f0f
 - https://v.spwvpn.com/api/v1/client/subscribe?token=8ecf69f74ec1f576a0d1504398a19065
 - https://v.spwvpn.com/api/v1/client/subscribe?token=c95dca86cca324dfdbc5d4777aa0ee6d
+- https://www.freeflyingcloud.xyz/api/v1/client/subscribe?token=4e3aa4b393e971356957869520a15f1a
 - https://www.freeflyingcloud.xyz/api/v1/client/subscribe?token=a0078138a65f772be41491d3904114d3
+- https://www.pddc.me/api/v1/client/subscribe?token=a4ab51c04f050c4937cad7ca88f89392
 - https://wwwjs.pro/api/v1/client/subscribe?token=660864c330ef60b196fb77bf67a82094
 - https://xn--pssq69d.xyz/api/v1/client/subscribe?token=6b87bc457f05647ec55b9b199aed9604
 - https://yes1.xn--mesv7f5toqlp.xyz/api/v1/client/subscribe?token=460c7adb50c9ba8660589f3ebf5eb989
