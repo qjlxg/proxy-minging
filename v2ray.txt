@@ -102,7 +102,8 @@ ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.180.156.133:443#TG频道:@hkaa0▓韩国
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.215.156.208:443#TG频道:@hkaa0▓新加坡
-trojan://85bce006-4885-11ee-8792-f23c9164ca5d@176.32.35.167:1007?security=tls&amp;sni=004282c1-sbdj40-sdlngq-1n7jq.ru.z7zi.com&amp;type=tcp&amp;headerType=none#TG频道:@hkaa0 |俄罗斯
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyS2N3SWg0NnJ3YzBuZ3Z3S3BHNmtp@92.246.138.25:35915#俄罗斯联邦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNzkwYWEzMS1jNzljLTRiODgtYWU4Mi03MjMzMjI4NGJkMTc@
 trojan://9d9e1051-aa4f-44ce-86b8-912d993fa4e2@china2.one.edu.kg:12025?security=tls&amp;sni=cdn.alibaba.com&amp;type=tcp&amp;headerType=none#TG频道:@hkaa0 
 trojan://1194cb2a-af73-465b-bf0c-c66a28e58200@ty11t.twty.dynu.net:13761?security=tls&amp;sni=ty11t.twty.dynu.net&amp;type=tcp&amp;headerType=none#TG频道:@hkaa0 |台湾
 trojan://1194cb2a-af73-465b-bf0c-c66a28e58200@36.226.146.206:19489?security=tls&amp;sni=b22.ntbq.dynu.net&amp;type=tcp&amp;headerType=none#TG频道:@hkaa0 |台湾
