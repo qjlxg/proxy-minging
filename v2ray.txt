@@ -347,6 +347,12 @@ ss://YWVzLTEyOC1nY206M2VjNmU2YWMtOWQyNS00MDc5LWE1MmItZDZiOTVlNzk2MjRl@xiaonangua
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOG5sdGptaklwZ0sxUGFv@123.tw01.360ccc.com:19504#🇨🇳中国台湾01
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOG5sdGptaklwZ0sxUGFv@123.tw02.360ccc.com:19505#🇨🇳中国台湾02
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOG5sdGptaklwZ0sxUGFv@123.sg01.360ccc.com:19558#🇸🇬新加坡01
+vmess://YXV0bzo4MjY1MDdjMi02NWVjLTQyZmUtYWRkNC00MTljNTcxMDE3YmRAY2RuY2RuY2RuY2RuLjc4NDY1NC54eXo6MjA1Mg?remarks=🏳️‍🌈 加拿大 02 高速（0.1x流量消耗）&amp;obfsParam={"Host":"ca-cfcdn.aikunapp.com"}&amp;path=/index?ed=2048&amp;obfs=websocket&amp;alterId=0
+vmess://YXV0bzo4MjY1MDdjMi02NWVjLTQyZmUtYWRkNC00MTljNTcxMDE3YmRAY2RuY2RuY2RuY2RuLjc4NDY1NC54eXo6MjA1Mg?remarks=🏳️‍🌈 日本  02 高速 （0.1x流量消耗）&amp;obfsParam={"Host":"jp-cdn.784654.xyz"}&amp;path=/index?ed=2048&amp;obfs=websocket&amp;alterId=0
+vmess://YXV0bzo4MjY1MDdjMi02NWVjLTQyZmUtYWRkNC00MTljNTcxMDE3YmRAc2hkeHVzLmFpa3VuYXBwLmNvbToyMDAwMg?remarks=🇸🇬 新加坡 01 专线 （10x）&amp;obfs=none&amp;alterId=0
+vmess://YXV0bzo4MjY1MDdjMi02NWVjLTQyZmUtYWRkNC00MTljNTcxMDE3YmRAc2hkeHVzLmFpa3VuYXBwLmNvbToyMDAwMw?remarks=🇺🇸 美国 专线（十倍率）测试&amp;obfs=none&amp;alterId=0
+vmess://YXV0bzo4MjY1MDdjMi02NWVjLTQyZmUtYWRkNC00MTljNTcxMDE3YmRAa3IwMS5haWt1bmFwcC5jb206MjAwMDY?remarks=🇰🇷 韩国专线（十倍率）测试&amp;obfs=none&amp;alterId=0
+trojan://826507c2-65ec-42fe-add4-419c571017bd@tw.aikunapp.com:49827?peer=s0.awsstatic.com#🇨🇳 台湾 01 gpt专用
 vmess://YXV0bzowN2E5MDJkMS03YzJkLTQ3ZGUtZjJjNS1jMjIzNmZjN2NkNDZAdmlzYS5jbjoyMDUy?remarks=🇺🇸美国cdn加速&amp;obfsParam=usxm.inekokkk.top&amp;path=/&amp;obfs=websocket&amp;alterId=0
 vmess://eyJhZGQiOiIxMDQuMjYuOC4yMTAiLCJ2IjoyLCJwcyI6IvCfh7rwn4e4X1VTX+e+juWbvV8xIiwicG9ydCI6IjQ0MyIsImlkIjoiMjA2MjU5ZmQtMDlhZi00NmVlLWVjNmQtNWFjOGE4MjkxZDZkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoidXloZ2l1eWZld2RyZ2YtdG8xMjM0NS54aWFvaGhoLnh5eiIsInRscyI6InRscyIsInBhdGgiOiIvNjYifQ==
 vmess://eyJhZGQiOiIxNzIuNjcuMTE2LjQ4IiwidiI6MiwicHMiOiLwn4e68J+HuF9VU1/nvo7lm71fMiIsInBvcnQiOiI4MCIsImlkIjoiMjJhMTNhYTItNDg1NC00NGNiLWUwOTAtZWM3MWFiODRiMWZmIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0Ijoid2FwLmhvc3RtamouY29tIiwidGxzIjoiIiwicGF0aCI6Ii8ifQ==
