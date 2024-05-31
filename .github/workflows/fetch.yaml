@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 
   schedule:
-    - cron: '0 20 * * *'
+    - cron: '0 */1 * * *'
   # 表达式生成  https://crontab.guru/
 
  
@@ -44,7 +44,7 @@ jobs:
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
         git add .
-        git commit -m "🍀 爬取订阅 $(date '+%Y-%m-%d %H:%M:%S')"
+        git commit -m "🌎爬呀爬 $(date '+%Y-%m-%d %H:%M:%S')"
         
     - name: 推送更改
       uses:  ad-m/github-push-action@master
