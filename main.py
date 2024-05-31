@@ -44,7 +44,7 @@ def get_channel_http(channel_url):
         return url_list, text_list
 
 def filter_base64(text):
-    ss = ['ss://','ssr://','vmess://','trojan://','vless://']
+    ss = ['ssr://','vmess://','trojan://','vless://','ss://','trojan://','tuic://','hysteria://','hy2://','hysteria2://','juicity://','nekoray://','socks4://','socks5://','socks://','naive+' ]
     for i in ss:
         if i in text:
             return True
