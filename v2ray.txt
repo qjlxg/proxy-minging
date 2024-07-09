@@ -266,7 +266,6 @@ hysteria2://sharecentrepro@de.sharecentrepro.link:4433?peer=de.sharecentrepro.li
 hy2://sharecentrepro@de.sharecentrepro.link:4433?insecure=1&amp;sni=
 hysteria2://sharecentrepro@us.sharecentrepro.link:4433?peer=us.sharecentrepro.link&amp;obfs=none&amp;downmbps=1000#SCP2
 hy2://sharecentrepro@us.sharecentrepro.link:4433?insecure=1&amp;sni=
-ss://YWVzLTEyOC1nY206MzVhNTQwNzctYWQxOC00ODc0LTk3ZmYtMzE0NDg3NzQwODVi@gyb.kd69.vip:31591#澳门|广新专线|玩具节点
 vless://94495d3f-8f9f-3d89-859b-d35e2394c5e4@13.231.188.57:7826/?sni=broadcast.chat.bilibili.com&amp;allowInsecure=false&amp;pbk=h6gA4e9TDf55_R3CEGAmyLbVGNqLfERt5wea2DFw7Wc&amp;sid=bb44791d&amp;fp=edge&amp;flow=xtls-rprx-vision&amp;tls=false&amp;security=reality&amp;packetEncoding=xudp#RLY05JP
 vmess://eyJ2IjoiMiIsInBzIjoiSEtULU5BVC1taWt1Y2xvdWQuY28iLCJhZGQiOiJoa3QubmF0LjAxLm1pa3VuZXQud29yayIsInBvcnQiOjIwMDAwLCJpZCI6IjMyNGFhMWM1LTc1MDQtNDg5My04MmI0LTEzNjU1OTYzMzFlMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInRscyI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSEtULU5BVC1uYXQucmVjbG91ZC5wdyIsImFkZCI6ImhrdC5yZWNsb3VkbmF0Lnh5eiIsInBvcnQiOjIwMDAwLCJpZCI6IjMyNGFhMWM1LTc1MDQtNDg5My04MmI0LTEzNjU1OTYzMzFlMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInRscyI6IiJ9
