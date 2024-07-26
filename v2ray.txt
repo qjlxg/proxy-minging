@@ -71,7 +71,8 @@ trojan://414dff55-922a-4dc8-b5d3-b6517942b25a@east.eeeeeef998.buzz:15006?allowIn
 trojan://414dff55-922a-4dc8-b5d3-b6517942b25a@east.eeeeeef998.buzz:15002?allowInsecure=1&amp;sni=data.steamdownload.top#美国+2
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@135.125.172.153:443#法国
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkUFc2U0toVmZxRGV2QmZkcnQ1ZUpn@95.164.87.138:63830#美国
-ss://YWVzLTI1Ni1nY206WXVidzhkNnNhZ0AzMUA=@103.242.3.130:13223#
+vless://422af10d-6e8a-4950-9a2a-ee41f2d8da15@hk3.tg-bplink.xyz:33600/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=www.python.org&amp;fp=chrome&amp;security=reality&amp;pbk=487NTwO5yyrUqkI1_p0MM6iZmyTgxBLD8_WGLX9xPjU&amp;sid=e47fd975&amp;packetEncoding=xudp#🇭🇰 香港3
+vmess://eyJhZGQiOiIxMjAuMjM3Ljc5LjE1NyIsImFpZCI6IjY0IiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzMjk5OCIsInBzIjoi8J+HqPCfh7Mg5Lit5Zu9IOS4reWxseenu+WKqCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiJkZG5zLXR3MDIucGxub2RlLnh5eiIsImFpZCI6IjEiLCJob3N0IjoiIiwiaWQiOiI3YmI3OGQzZS1jMWNlLTQzMGQtYjBhYi1jZDg1ZmFiZDA5YzUiLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0Ijo4OTAxLCJwcyI6IlNTUlRPT0wuQ09NIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJ0d2lwdjQudXNlaXB2Nm5vdy5jb20iLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMDAzZjEyNzktYzU1ZC00MjdjLTgzMjctOWY3MWY4YjFjYzBiIiwibmV0Ijoid3MiLCJwYXRoIjoiIiwicG9ydCI6NjYxNywicHMiOiJTU1JUT09MLkNPTSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiI1LjE4Mi4zNi4xOTkiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMDAzZjEyNzktYzU1ZC00MjdjLTgzMjctOWY3MWY4YjFjYzBiIiwibmV0Ijoid3MiLCJwYXRoIjoiIiwicG9ydCI6NjYxNiwicHMiOiJTU1JUT09MLkNPTSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
@@ -97,10 +98,6 @@ vmess://eyJ2IjoiMiIsInBzIjoi5LqM54i357+75aKZIGh0dHBzOi8vMTgwOC5mcmVlLmhyIE5vZGVf
 vmess://eyJ2IjoiMiIsInBzIjoi5LqM54i357+75aKZIGh0dHBzOi8vMTgwOC5mcmVlLmhyIE5vZGVfMTA4IiwiYWRkIjoiY2ZjZG4zLnNhbmZlbmNkbjkuY29tIiwicG9ydCI6ODAsImlkIjoiMDkyMWYxOGUtZGIzMi00YzA3LTkzOWItNDM4ODY3M2JmZTU5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0Ijoib0E1RlN6OVRqcDEueW9mbmhrZmMueHl6IiwicGF0aCI6Ii92aWRlby9QN0VFeG9FMiIsInRscyI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoi5LqM54i357+75aKZIGh0dHBzOi8vMTgwOC5mcmVlLmhyIE5vZGVfMTEwIiwiYWRkIjoic3VpLmZvcmxpdmUubGl2ZSIsInBvcnQiOjQwMzk2LCJpZCI6IjU0NWQ1OGRhLTVjZjQtNGRkNS04NzYwLTM1MzUwOTcyMGIwYSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6InRtcy5kaW5ndGFsay5jb20iLCJwYXRoIjoiLyIsInRscyI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoi5LqM54i357+75aKZIGh0dHBzOi8vMTgwOC5mcmVlLmhyIE5vZGVfMTEyIiwiYWRkIjoiMTA0LjE5LjUxLjIzMiIsInBvcnQiOjIwODYsImlkIjoiMjllZWJiNjAtYjI3Yi00YTlkLWJiYTUtOTQ3NzYzZDkyMDVlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiaXAwMDUuZHRrdTQ3Lnh5eiIsInBhdGgiOiJnaXRodWIuY29tL0FsdmluOTk5OSIsInRscyI6IiJ9
-vless://58877aea-dfdc-44b3-818e-231dbc1e47dc@hk.xujiang.link:80?encryption=none&amp;security=none&amp;type=ws&amp;path=/aa#香港-域名
-vless://58877aea-dfdc-44b3-818e-231dbc1e47dc@proxyip.oracle.fxxk.dedyn.io:80?encryption=none&amp;security=none&amp;sni=hk.xujiang.link&amp;type=ws&amp;host=hk.xujiang.link&amp;path=/aa#香港|优选域名
-vless://58877aea-dfdc-44b3-818e-231dbc1e47dc@proxyip.aliyun.fxxk.dedyn.io:443?encryption=none&amp;security=tls&amp;sni=hk.xujiang.link&amp;type=ws&amp;host=hk.xujiang.link&amp;path=/aa#香港-阿里云域名
-hysteria2://03e4fe32@ae-dubai-oracle-46ebed.ip1.shop:31452/?sni=www.bing.com&amp;insecure=1#迪拜nat
 trojan://sharevpn@tr1.mynode.work.gd:443?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=tr1.mynode.work.gd
 vless://31923a5e-3596-4bcd-f0ef-ff141929c958@us.qinlinyun.top:42670/?type=tcp&amp;encryption=none&amp;security=tls&amp;sni=us.qinlinyun.top#🇺🇸美国
 hy2://as123456@us2.qinlinyun.top:5210/?insecure=1&amp;sni=www.bing.com#🇺🇸美国
