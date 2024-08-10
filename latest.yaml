@@ -1,4 +1,7 @@
 clash订阅:
+- http://103.35.189.118/202407271/clash.yaml
+- http://103.35.189.118/20240728/clash.yaml
+- http://103.35.189.118/20240801/clash.yaml
 - https://github.com/0KABE/ConfConvertor#clash
 - https://github.com/JohanChane/clashtui
 - https://github.com/ssrsub/ssr/raw/master/Clash.yml
@@ -38,7 +41,6 @@ v2订阅:
 - https://sub.shadowsokstes.workers.dev/sub
 - https://sub.sharecentre.online/sub
 机场订阅:
-- http://s.33y.run/v3/subscr?id=e3dd1fbb06ad44678e02bb8e9287ffa8
 - https://4e60bafd-0633-4e8d-a02a-eef51cd1ad8e.xn--mes358a.art/api/v1/client/subscribe?token=be9dc73e711bcc98bcb808eea57c7cac
 - https://api.xinyo.vip/api/v1/client/subscribe?token=d9063e2f55e2c52c1ecb0279c25de3bd
 - https://cainiao172.top/api/v1/client/subscribe?token=5455e07dbefee0c15e6a28c4485b766f
