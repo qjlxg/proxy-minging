@@ -97,6 +97,12 @@ vmess://aEdyCbNprjPflSiC+nhkAItEAMmsGTI8piG5IoRDXmAjcr54xiiRl9BQ2YTHWSlIjQMnOF2j
 vmess://eyJhZGQiOiIyYTA1OjU0MToxMTA6NDM6OjEiLCJhaWQiOiIwIiwiaG9zdCI6ImZ0cC5kZWJpYW4ub3JnIiwiaWQiOiI4Mzg3NjIyMi02NGE0LTQ5MTItYWExOC1iN2Q5ZDM0OTU5ZGUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLz9AQVpBUkJBWUpBQjFAQVpBUkJBWUpBQjFAQVpBUkJBWUpBQjFAQVpBUkJBWUpBQjEiLCJwb3J0IjoiMjA5OCIsInBzIjoiQEFaQVJCQVlKQUIxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiJBWkFSQkFZSkFCMS5GUkVFV09STExELWlSLk5FVCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkZTVhMjI0Ny1jYTlkLTQxOTctYWE2OS03NGUzNjIxNmE0OGYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjM1OTE4IiwicHMiOiLwn4e58J+Ht0BBWkFSQkFZSkFCMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiI4NS4xNTkuMjI5Ljg4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImFmZTU3NTU3LWRmMjQtNDNlNS05Y2VhLTVkMmFjYzJjYWQwOCIsIm5ldCI6ImdycGMiLCJwYXRoIjoiIiwicG9ydCI6Ijg0NDMiLCJwcyI6IvCfh6bwn4e/QEFaQVJCQVlKQUIxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
+vless://c0af847d-0e64-4055-9637-bdc383999289@www.speedtest.net:80?type=ws&amp;path=2048netmaster/Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs?ed=2048&amp;host=www.speedtest.net.zula.ir.zara.com.nobitex.com.vigilantecollection.com.&amp;security=none#Tel:@
+vless://fd876292-c56c-41c4-a94d-a0671c9be4c5@104.16.232.76:80?type=ws&amp;path=2048netmaster/Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs?ed=2048&amp;host=www.speedtest.net.zula.ir.zara.com.nobitex.com.vigilantecollection.com.&amp;security=none#Tel:@
+vless://e5515956-fdf3-4924-a441-6efa7b830076@198.41.193.40:80?type=ws&amp;path=2048netmaster/Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs?ed=2048&amp;host=www.speedtest.net.zula.ir.zara.com.nobitex.com.vigilantecollection.com.&amp;security=none#Tel:@
+vless://a8564f37-d9ba-49c1-b2af-582a3316bd02@185.146.173.85:80?type=ws&amp;path=2048netmaster/Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs?ed=2048&amp;host=www.speedtest.net.zula.ir.zara.com.nobitex.com.vigilantecollection.com.&amp;security=none#Tel:@
+vless://8de88776-7c5a-4453-9366-db609357c95b@104.16.232.2:80?type=ws&amp;path=2048netmaster/Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs?ed=2048&amp;host=www.speedtest.net.zula.ir.zara.com.nobitex.com.vigilantecollection.com.&amp;security=none#Tel:@
+vless://59884680-c8ef-4fe9-a613-032f43a7eaa3@visa.com:80?type=ws&amp;path=2048netmaster/Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs?ed=2048&amp;host=www.speedtest.net.zula.ir.zara.com.nobitex.com.vigilantecollection.com.&amp;security=none#Tel:@
 vless://cb211e44-7725-4ddc-b52e-6a0059162fde@104.21.74.98:443?encryption=none&amp;security=tls&amp;sni=cc.limoo.online&amp;alpn=h2,http/1.1&amp;fp=randomized&amp;type=ws&amp;host=cc.limoo.online&amp;path=/_jwiEbjsl0_ol8E-?ed=2048#Baraye azadi
 vless://cb211e44-7725-4ddc-b52e-6a0059162fde@104.21.74.98:443?encryption=none&amp;security=tls&amp;sni=cc.limoo.online&amp;alpn=h2,http/1.1&amp;fp=randomized&amp;type=ws&amp;host=cc.limoo.online&amp;path=/_jwiEbjsl0_ol8E-?ed=2048#Baraye azadi
 vless://2dafa27b-898b-4eb2-bbc4-6a1bbc27639b@104.19.219.113:443?encryption=none&amp;security=tls&amp;sni=bb.limoo.online&amp;fp=chrome&amp;type=ws&amp;host=bb.limoo.online&amp;path=/?ed=2048#marg bar setamgar 1
@@ -1085,7 +1091,6 @@ vmess://eyJhZGQiOiAiby5tZXR1amkuY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjog
 vmess://eyJhZGQiOiAiaGFycmlzY2l0eS5jb20iLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiaGFycmlzY2l0eS5jb20iLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rdndzIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIkNoYW5uZWwgaWQ6IEBTaGFkb3dQcm94eTY2IFx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiaGFycmlzY2l0eS5jb20iLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
 vmess://eyJhZGQiOiAiMTYyLjE1OS4xMjkuMTI5IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm1jMC5wYWdlcy5kZXYiLCAiaWQiOiAiMzljZWMxOGYtYTQzOS00MjdjLTlhNGUtYWViNmZjZGY2ZjUzIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi91czEiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJwYWdlcy5kZXYiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
 trojan://oZAugtgF5T@146.190.87.238:443?path=/&amp;security=tls&amp;host=aka.ms&amp;type=ws&amp;sni=aka.ms#Free+dialog+zoom-qlgztp4g
-vless://7eb2d99b-1fdb-48f4-bbbe-26d47327b096@lon1.copenhagencafes.com:443?encryption=none&amp;security=tls&amp;sni=lon1.copenhagencafes.com&amp;fp=chrome&amp;type=ws&amp;host=&amp;path=/lon1#⚡@DeamNet_Proxy+🔻🇨🇦CA+🔺🇬🇧GB+☑MTN
 vless://bia--ZEDMODEON@www.speedtest.net:80?path=/@ZEDMODEON-ZEDMODEON-@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-@ZEDMODEON?ed=2048&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.列列上列列上列列上.らわなさ.tech.&amp;type=ws#all+
 vless://bia--ZEDMODEON@www.speedtest.net:80?path=/@ZEDMODEON-ZEDMODEON-@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-@ZEDMODEON?ed=2048&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.列列上列列上列列上.らわな.らわなさ.tech.&amp;type=ws#all+
 vless://biato--ZEDMODEON@[2a0d:5940:48:11::]:25365?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=&amp;pbk=ejzsFE5yASJhIIEbTMZyRJ0160Cj6SIoAyawdPCqmGY&amp;fp=chrome&amp;spx=/&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&amp;sni=sourceforge.net&amp;sid=ff11931a#ipv6+
@@ -1236,7 +1241,6 @@ vless://7fc5ab7c-57c3-4cad-ba92-a31101ea6db7@95.217.158.157:443?security=none&am
 vless://--------NORBERT-VPN--------@46.245.66.198:1232?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#NORBERT-VPN
 ss://,
 ssr://的格式
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOWkwQjVDTk1sR2tNQ01sZkR3eGRX@77.83.246.74:33320#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplT3YzNVM4d1ExVVZSaEdKZDVKdU9j@81.19.141.45:52873#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJVTN2b2tzS1E5eVA4Qlo0d3dFYUEy@194.87.45.189:40076#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjaWQ4R1JIcDdvcm1PczFFczNLODFv@89.185.84.185:12575#
@@ -1250,6 +1254,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3b1ZoNGNCZ241OTc1MjBBUjFhb25Y@77.83.246.74:3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaYnN5R1FMZnNTRzhudlYzTlROTGtN@194.87.45.189:40076#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJMU5DZlFNWUk4ZlMxenVZVGphaWlF@194.87.45.189:40076#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoN2kySE5DcUllSTVoRTI5elY4b3JQ@194.87.45.189:40076#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0WHRLSGhONElaOHVQZDlEa0VNWEZr@89.185.84.185:12575#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDd1lmd05SUU5Dd2NTSGhEcFBYbHp2@62.133.60.60:21712#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnalgwSTQ1MFRkUVFCa1gyZ3A5TUNr@89.185.84.185:12575#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZU5PRFhWZjdEVTJWSGNLd0NhNU94@163.172.171.137:443#
