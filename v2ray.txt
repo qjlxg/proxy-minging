@@ -123,10 +123,6 @@ vless://20096f67-953d-4708-ae67-8b56336552f9@www.speedtest.net:80?path=/telegram
 vless://7cd7c332-ebe4-40d7-8531-53d8ebb1b1db@www.speedtest.net:80?path=/telegram-iranargo,telegram-iranargo,telegram-iranargo,telegram-iranargo,telegram-iranargo,telegram-iranargo,telegram-iranargo,telegram-iranargo,telegram-iranargo,telegram-iranargo,telegram-iranargo?ed=8880&amp;security=none&amp;encryption=none&amp;host=5.V2.f.www.speedtest.net.ncba.iR.&amp;type=httpupgrade#@argotaz
 vless://1f6594ea-5460-46a6-ba5e-6d64db44ea97@www.speedtest.net:80?path=/telegram-iranargo,telegram-iranargo,telegram-iranargo,telegram-iranargo,telegram-iranargo,telegram-iranargo,telegram-iranargo,telegram-iranargo,telegram-iranargo,telegram-iranargo,telegram-iranargo?ed=8880&amp;security=none&amp;encryption=none&amp;host=5.V2.f.www.speedtest.net.ncba.iR.&amp;type=httpupgrade#@argotaz
 vless://62b1a08a-2dff-4349-bcc6-e242af3a36ae@www.speedtest.net:80?path=/telegram-iranargo,telegram-iranargo,telegram-iranargo,telegram-iranargo,telegram-iranargo,telegram-iranargo,telegram-iranargo,telegram-iranargo,telegram-iranargo,telegram-iranargo,telegram-iranargo?ed=8880&amp;security=none&amp;encryption=none&amp;host=5.V2.f.www.speedtest.net.ncba.iR.&amp;type=httpupgrade#@argotaz
-vless://adebbebb-f89e-41a1-b0cb-d14a941de4ee@fireserver.ir:8880?path=/zula.ir-didgahnews.ir-dl6453hyirq.bookgozar-fa.ir-kadelidelsar.ejustageram.ir-giftistore.ir-account.zula.ir-st.aimanboutique.ir-twitchs.ir-rezarahimi887289832haak.dsoheilb.ir%?ed=2048&amp;security=none&amp;encryption=none&amp;host=BeTa.V2RaYnNgG.tOP.&amp;type=httpupgrade#📶🇳🇱VIP-NET1-1.95TB📊-30D,6H⏳
-vless://adebbebb-f89e-41a1-b0cb-d14a941de4ee@lotuslab.ir:8880?path=/zula.ir-didgahnews.ir-dl6453hyirq.bookgozar-fa.ir-kadelidelsar.ejustageram.ir-giftistore.ir-account.zula.ir-st.aimanboutique.ir-twitchs.ir-rezarahimi887289832haak.dsoheilb.ir%?ed=2048&amp;security=none&amp;encryption=none&amp;host=BeTa.V2RaYnNgG.tOP.&amp;type=httpupgrade#📶🇳🇱VIP-NET1-1.95TB📊-30D,6H⏳
-vless://adebbebb-f89e-41a1-b0cb-d14a941de4ee@zula.ir:8880?path=/zula.ir-didgahnews.ir-dl6453hyirq.bookgozar-fa.ir-kadelidelsar.ejustageram.ir-giftistore.ir-account.zula.ir-st.aimanboutique.ir-twitchs.ir-rezarahimi887289832haak.dsoheilb.ir%?ed=2048&amp;security=none&amp;encryption=none&amp;host=BeTa.V2RaYnNgG.tOP.&amp;type=httpupgrade#📶🇳🇱VIP-NET1-1.95TB📊-30D,6H⏳
-vless://adebbebb-f89e-41a1-b0cb-d14a941de4ee@lucky-store.ir:8880?path=/zula.ir-didgahnews.ir-dl6453hyirq.bookgozar-fa.ir-kadelidelsar.ejustageram.ir-giftistore.ir-account.zula.ir-st.aimanboutique.ir-twitchs.ir-rezarahimi887289832haak.dsoheilb.ir%?ed=2048&amp;security=none&amp;encryption=none&amp;host=BeTa.V2RaYnNgG.tOP.&amp;type=httpupgrade#📶🇳🇱VIP-NET1-1.95TB📊-30D,6H⏳
 vmess://eyJhZGQiOiJpZDEueHJheXNydi5zYnMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im10bi56bSIsImlkIjoiNDVhNDJjNDAtY2U1OC00ZDMzLTk3NjItNzZkN2ZmMGJkMGQ5IiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiLwnZCj8J2QqPCdkKLwnZCnOiBA8J2QgPCdkJfwnZCp8J2Qq/CdkKjwnZCx8J2QsiAgICAgICAgMTUwNPCfh67wn4epIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vless://902399e5-288d-4cad-9fd9-31d2807f95ba@uk1.x2fast.net:443?mode=multi&amp;security=tls&amp;encryption=none&amp;authority=&amp;fp=chrome&amp;type=grpc&amp;serviceName=grpc&amp;sni=v38.tiktokcdn.com#channel:+@axproxy++++🇬🇧1505
 vmess://eyJhZGQiOiJ1cy0yMS5oaWh1Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic2Iuc2NvcmVjYXJkcmVzZWFyY2guY29tIiwiaWQiOiI2Mzg1ZDQ2MC02MDlmLTExZWYtYjkzNi0yMDVjNmQ1ZjVkNzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdXJ6ZW1ocDYiLCJwb3J0IjoiODAiLCJwcyI6IkNoYW5uZWw6IEBheHByb3h5ICAgIPCfh7rwn4e4MTUwNiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
@@ -1267,7 +1263,6 @@ vless://7fc5ab7c-57c3-4cad-ba92-a31101ea6db7@95.217.158.157:443?security=none&am
 vless://--------NORBERT-VPN--------@46.245.66.198:1232?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#NORBERT-VPN
 ss://,
 ssr://的格式
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPUjJvazFJY1IybHlNTEdhU2F5SWdF@81.19.141.45:52873#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozUXFTeDZYeHNsYlphYUlJWnUyUDBo@81.19.141.45:52873#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuQ3diVkVkZXUyUWxHYnk3RDI1TlJM@89.185.84.185:12575#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMdm1ndVRiNks3SHpFdGVlMjJtbHM2@45.83.21.66:14783#Iceland #1138 / OutlineKeys.com
@@ -1277,6 +1272,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpERUc2RU40NVFMdlF3eGw4MjdDRFcy@77.83.246.74:3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsNkpmTkZxdUd2VEp4b2kxU2FPWWNt@77.83.246.74:33320#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiQ3NuSFl5OFhnalJDM29zc2tpVjcw@89.185.84.185:12575#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOTXk1UWU1M29pNlBROVJJMXk2cUxZ@194.87.45.189:40076#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplM1VTQ0swMXlqRU1nNlFYNTF5VnhR@194.87.45.189:40076#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3UVk5TFk5eGdtNWZTMFpTcHBLQU5Y@193.222.97.89:51226#
 ss://YWVzLTI1Ni1nY206UFJwTHJTaWlaUVdicHhTMFo3ZGZmTQ@5.182.87.210:35961#
 ss://YWVzLTI1Ni1nY206bFd5M0xQbDRtaVFmVTVGcE5kTllLQw@94.228.162.68:47961#
