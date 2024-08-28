@@ -16,8 +16,6 @@ vless://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=/&a
 vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=/&amp;security=none&amp;encryption=none&amp;host=cdn.melodyshopone2.ir&amp;type=ws#@configforVPN
 vmess://eyJhZGQiOiJqb2luLm1lbG9keWZyZWVuZXQyLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiI1MGVmMGIyMy1mMTRiLTQ1OWYtOTdhYS1kMGYzNDYxODlkMmEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbWFpbC8iLCJwb3J0IjoiNDQzIiwicHMiOiJAY29uZmlnZm9yVlBOIiwic2N5IjoiYXV0byIsInNuaSI6IkpvaW4uTWVsb2R5RmVlbkV0Mi5zaG9QLiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJzaGFoaW5uZXQtZnJlZW5ldGNkbi5tZWxvZHlzaG9wb25lMi5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic29nLnNoYWhpbm5ldC5zaG9wIiwiaWQiOiI5NjU4ODkxMi0zYmNiLTQ5MWMtOGNlMy03YTk2NWJiZWMwN2YiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IkBDb25maWdmb3JWUE4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-vless://94f51d56-204b-466b-b1d7-d397df9273d4@www.parspack.com:2095?path=/Digi-Tel-Digiv-Digicnc-saaaalaaaam-?ed=1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.发出来就被吞.website.&amp;type=ws#@Digiv2ray-1
-vless://94f51d56-204b-466b-b1d7-d397df9273d4@www.parspack.com:2095?path=/Digi-Tel-Digiv-Digicnc-saaaalaaaam-?ed=1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&amp;type=ws#@Digiv2ray-2
 vless://DIGIV2RAY@www.parspack.com:2095?path=/Digi-Tel-Digiv-Digicnc-saaaalaaaam-?ed=1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.发出来就被吞.website.&amp;type=ws#@Digiv2ray-1
 vless://DIGIV2RAY@www.parspack.com:2095?path=/Digi-Tel-Digiv-Digicnc-saaaalaaaam-?ed=1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&amp;type=ws#@Digiv2ray-2
 vless://DIGIV2RAy@www.parspack.com:2095?path=/Digi-Tel-Digiv-Digicnc-saaaalaaaam-?ed=1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.发出来就被吞.website.&amp;type=ws#@Digiv2ray-1
@@ -527,8 +525,6 @@ vless://0f3baa1b-58fa-4cc2-a3d7-d834bb8d970c@in1rfsblhhoh.azborn.ir:443/?type=ws
 vless://1176c741-aaf3-4af2-9b52-1ee72fcaad15@128.140.117.241:30195?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=oky43kNBJPeO6nucKr1FrtDcY0twTjZmr-XS_AoYmz0&amp;fp=chrome&amp;spx=/&amp;type=grpc&amp;serviceName=@Funza-@Funza-@ShadowSocks_s-@Funza-@Funza-@ShadowSocks_s-@Funza-@Funza-@ShadowSocks_s-@Funza-@Funza-@ShadowSocks_s-@Funza-@Funza-@ShadowSocks_s-@Funza-@Funza-@ShadowSocks_s-@Funza-@Funza-@ShadowSocks_s&amp;sni=a.gsmarena.com&amp;sid=c61b48cb#Free|@ASEEMANVPN|🇩🇪|SERVER3
 vless://92a32d3a-4c30-47cd-a69e-37187fdf93be@51.89.119.200:46933?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=s2fgCuh9yxCEK2n85wERxj585MakUGLA6ac77CKHcmQ&amp;fp=chrome&amp;spx=/&amp;type=grpc&amp;serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&amp;sni=cdn.discordapp.com&amp;sid=e8f32995#Free|@ASEEMANVPN|🇬🇧|SERVER2
 vless://9208e854-c58f-4d42-9fb4-8d0927b33285@cdn.king4father.shop:8080?encryption=none&amp;security=none&amp;type=ws&amp;path=/custom-config#@custom_config
-trojan://OE1IBsAueh@18.136.195.155:443?type=ws&amp;path=/&amp;host=&amp;security=tls&amp;fp=&amp;alpn=http/1.1&amp;allowInsecure=1&amp;sni=aka.ms#Dzoom-uduaddvi
-trojan://ecCcV9ihvW@18.136.195.155:16576?type=ws&amp;path=/&amp;host=content.cdn.viber.com&amp;security=none#D223…
 vless://3020b51a-95c6-46b1-83d2-ea836e35305e@152.42.236.184:40310?type=ws&amp;path=/&amp;host=m.zoom.us&amp;security=none#Dzoom-GHOSTVPN
 trojan://C1G9GGA7n6@152.42.236.184:13036?type=ws&amp;path=/&amp;host=content.cdn.viber.com&amp;security=none#DIALOG223-GHOSTVPNDIALOG223
 trojan://hS3A4bVXD2@152.42.236.184:28316?type=ws&amp;path=/&amp;host=m.whatsapp.com&amp;security=none#ALLWHATSAPP-GHOSTVPNWHATSAPP
@@ -574,6 +570,12 @@ vless://55b65677-e55d-4003-8c3c-122cf6282083@13.215.179.134:39120?type=ws&amp;pa
 vless://f8d00ab5-e89b-4b02-a7c4-99cf2f7e7ded@13.215.179.134:443?type=ws&amp;path=/&amp;host=&amp;security=tls&amp;fp=&amp;alpn=http/1.1&amp;allowInsecure=1&amp;sni=m.zoom.us#GHOSTVPNSLTZOOM-GHOSTVPNZOOM
 vless://89643b95-aa9e-4188-803f-8559478e8e2a@13.215.179.134:22362?type=ws&amp;path=/&amp;host=m.whatsapp.com&amp;security=none#GHOSTVPNALLWHATSAPP-GHOSTVPNWP
 vless://9daf70ee-0a48-4331-afa7-2c3124275b46@13.215.179.134:40569?type=ws&amp;path=/&amp;host=store.steampowered.com&amp;security=none#GHOSTVPNHUTCHGAMING-GHOSTVPNHUTCHGAMING
+vless://f8d00ab5-e89b-4b02-a7c4-99cf2f7e7ded@54.179.89.140:443?type=ws&amp;path=/&amp;host=&amp;security=tls&amp;fp=&amp;alpn=http/1.1&amp;allowInsecure=1&amp;sni=m.zoom.us#GHOSTVPNSLTZOOM-GHOSTVPNZOOM
+vless://d005aae6-774a-4139-9b72-9f6cab5c11a7@54.179.89.140:38549?type=ws&amp;path=/&amp;host=m.zoom.us&amp;security=none#GHOSTVPNDZOOM-GHOSTVPN
+vless://55b65677-e55d-4003-8c3c-122cf6282083@54.179.89.140:39120?type=ws&amp;path=/&amp;host=content.cdn.viber.com&amp;security=none#GHOSTVPNDIALOG348(223)-GHOSTVPN223
+vless://f8d00ab5-e89b-4b02-a7c4-99cf2f7e7ded@54.179.89.140:443?type=ws&amp;path=/&amp;host=&amp;security=tls&amp;fp=&amp;alpn=http/1.1&amp;allowInsecure=1&amp;sni=m.zoom.us#GHOSTVPNSLTZOOM-GHOSTVPNZOOM
+vless://89643b95-aa9e-4188-803f-8559478e8e2a@54.179.89.140:22362?type=ws&amp;path=/&amp;host=m.whatsapp.com&amp;security=none#GHOSTVPNALLWHATSAPP-GHOSTVPNWP
+vless://9daf70ee-0a48-4331-afa7-2c3124275b46@54.179.89.140:40569?type=ws&amp;path=/&amp;host=store.steampowered.com&amp;security=none#GHOSTVPNHUTCHGAMING-GHOSTVPNHUTCHGAMING
 vless://f5a9dfa6-14e2-473d-a66f-671ece5e8dd2@Blogfa.com:2052?path=/?ed=2048&amp;security=none&amp;encryption=none&amp;host=cfnb.v3nom.top&amp;type=ws#Germany2+🇩🇪+VIP-@v2Mod
 vless://0a3f8b1c-ec35-46f3-abfd-18d79f260ab2@discord.com:2086?path=/?ed=2048&amp;security=none&amp;encryption=none&amp;host=cfhax2.v3nom.top&amp;type=ws#Hax2+☁️+CF-venom1+[@v2modBot]
 vless://0a3f8b1c-ec35-46f3-abfd-18d79f260ab2@www.speedtest.net:2086?path=/?ed=2048&amp;security=none&amp;encryption=none&amp;host=cfhax2.v3nom.top&amp;type=ws#Hax2+☁️+CF-venom1+[@v2modBot]
@@ -1344,7 +1346,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOTXk1UWU1M29pNlBROVJJMXk2cUxZ@194.87.45.189:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplM1VTQ0swMXlqRU1nNlFYNTF5VnhR@194.87.45.189:40076#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppUEJZanVWQXBNR25OT0gzQUN2YWRJ@81.19.141.45:52873#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFcnR5UnB3N3ZRMjhZWWN1d3FCN2Q0@89.185.84.185:12575#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0eWk5a1ZEVE1XcmlEYURRNENMQ0lN@62.133.60.60:21712#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozWFlveWd0Q0ZVN0NabEVPeldVTHRw@147.45.125.172:64296#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxM01JdzNVRHgwdDR5eENTS1N0TGkw@147.45.124.227:30488#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzbjJEZlVieXJaUXFKVTJOSVJDaW9x@92.118.112.101:9483#
@@ -1362,6 +1363,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyVDZjcnp0RVVNMmdPRHcwQ0hsUnpD@85.159.230.44:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzcnZTVWliZXkwMDk3bWlQY3ZvZFM2@147.45.114.160:20810#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpidUg1YmZVYUt3VXdkZnVNTExIRGRj@163.172.171.137:443#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOY3RuY3ZUTDNhTFk0OTVFYUxmNW5M@185.247.141.87:58454#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXRnlZZ3ppejZpNkd6U3MyYkI4azBk@163.172.171.137:443#
 ss://YWVzLTI1Ni1nY206RmVRUThtdWhXbktYSGVDUTNEOFpqeWVxQDIwMi4xNDMuMTEwLjMyOjM1OTM4#@OutlineVpnOfficial-Vietnam"
 ss://YWVzLTI1Ni1nY206RmVRUThtdWhXbktYSGVDUTNEOFpqeWVxQDIwMi4xNDMuMTEwLjMyOjM1OTM4#@OutlineVpnOfficial-Vietnam"
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4TDliQU9oVW5kY2lrRjMyQ0VLbjJ6@46.249.99.200:25705/?outline=1
@@ -1475,6 +1477,12 @@ vless://55b65677-e55d-4003-8c3c-122cf6282083@13.215.179.134:39120?type=ws&amp;pa
 vless://f8d00ab5-e89b-4b02-a7c4-99cf2f7e7ded@13.215.179.134:443?type=ws&amp;path=/&amp;host=&amp;security=tls&amp;fp=&amp;alpn=http/1.1&amp;allowInsecure=1&amp;sni=m.zoom.us#GHOSTVPNSLTZOOM-GHOSTVPNZOOM
 vless://89643b95-aa9e-4188-803f-8559478e8e2a@13.215.179.134:22362?type=ws&amp;path=/&amp;host=m.whatsapp.com&amp;security=none#GHOSTVPNALLWHATSAPP-GHOSTVPNWP
 vless://9daf70ee-0a48-4331-afa7-2c3124275b46@13.215.179.134:40569?type=ws&amp;path=/&amp;host=store.steampowered.com&amp;security=none#GHOSTVPNHUTCHGAMING-GHOSTVPNHUTCHGAMING
+vless://f8d00ab5-e89b-4b02-a7c4-99cf2f7e7ded@54.179.89.140:443?type=ws&amp;path=/&amp;host=&amp;security=tls&amp;fp=&amp;alpn=http/1.1&amp;allowInsecure=1&amp;sni=m.zoom.us#GHOSTVPNSLTZOOM-GHOSTVPNZOOM
+vless://d005aae6-774a-4139-9b72-9f6cab5c11a7@54.179.89.140:38549?type=ws&amp;path=/&amp;host=m.zoom.us&amp;security=none#GHOSTVPNDZOOM-GHOSTVPN
+vless://55b65677-e55d-4003-8c3c-122cf6282083@54.179.89.140:39120?type=ws&amp;path=/&amp;host=content.cdn.viber.com&amp;security=none#GHOSTVPNDIALOG348(223)-GHOSTVPN223
+vless://f8d00ab5-e89b-4b02-a7c4-99cf2f7e7ded@54.179.89.140:443?type=ws&amp;path=/&amp;host=&amp;security=tls&amp;fp=&amp;alpn=http/1.1&amp;allowInsecure=1&amp;sni=m.zoom.us#GHOSTVPNSLTZOOM-GHOSTVPNZOOM
+vless://89643b95-aa9e-4188-803f-8559478e8e2a@54.179.89.140:22362?type=ws&amp;path=/&amp;host=m.whatsapp.com&amp;security=none#GHOSTVPNALLWHATSAPP-GHOSTVPNWP
+vless://9daf70ee-0a48-4331-afa7-2c3124275b46@54.179.89.140:40569?type=ws&amp;path=/&amp;host=store.steampowered.com&amp;security=none#GHOSTVPNHUTCHGAMING-GHOSTVPNHUTCHGAMING
 vmess://eyJhZGQiOiJmcmVlLm11c2VsYW5kLmluZm8iLCJhaWQiOiIwIiwiaG9zdCI6Imdvb2dsZS5jb20iLCJpZCI6IjMzNTg4YzYyLTNiYWUtNGVhYS1hMDFlLWM2MjJiOTI1N2EwNiIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6ODA4MCwicHMiOiJAVGVocmFuRnJlZVZQTiAtIEZyZWVQcm94eSIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6IiIsInYiOiIyIn0=
 vless://c977623c-7ee3-42aa-ac8c-b01f31ea898f@199.247.30.45:8443?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=discordapp.com#@TehranFreeVPN
 vless://c977623c-7ee3-42aa-ac8c-b01f31ea898f@199.247.30.45:2053?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;fp=chrome&amp;type=grpc&amp;serviceName=xyz&amp;sni=discordapp.com#@TehranFreeVPN
@@ -2676,6 +2684,7 @@ vless://a5542579-59e9-4bd3-8d93-eb609f83e19b@172.66.208.0:443?path=/Telegram@V2r
 vless://8545c44f-b1b4-4295-ae98-f0b6301a537f@172.66.46.214:2053?path=/Telegram@V2ray_Alpha/?ed=2560&amp;security=tls&amp;encryption=none&amp;host=ios-azadnet.pages.dev&amp;type=ws&amp;sni=ios-azadnet.pages.dev#سرور+رایگان+و+گودرتمند😎🎁🔰+@V2RAYNG_Outline_VPN
 vless://telegram-id-ArV2ray@www.speedtest.net:8880?path=/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry?ed=8880&amp;security=none&amp;encryption=none&amp;host=5.V2.m.www.speedtest.net.dnschecker.tecH.&amp;type=httpupgrade#سرور+رایگان+و+گودرتمند😎🎁🔰+@V2RAYNG_Outline_VPN
 vless://telegram-id-ArV2ray@www.speedtest.net:8880?path=/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry?ed=8880&amp;security=none&amp;encryption=none&amp;host=2.V2.www.speedtest.net.h.speedtest-3.Shop.&amp;type=httpupgrade#سرور+رایگان+و+گودرتمند😎🎁🔰+@V2RAYNG_Outline_VPN
+ss://Y2hhY2hhMjAtcG9seTEzMDU6Vzc0WEZBTExMdXc2bTVJQQ==@series-a1.samanehha.co:443#سرور+رایگان+و+گودرتمند😎🎁🔰+@V2RAYNG_Outline_VPN
 vless://telegram-id-ArV2ray@185.146.173.37:8080?path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&amp;security=none&amp;encryption=none&amp;host=3.V.v.V.v.V.v.V-_-_-V2ray-_-_-v.V.v.V.xn--9iqtb0z3kmg58ejur6wfbwf9muugk7rck30b0frbqkvk2bye0bm1a.arV2ray.Host.&amp;type=ws#𝐜𝐡𝐚𝐧𝐧𝐞𝐥:+⭐️@V2rayNG_Outlinee⭐️
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?path=/kkhhl0gssoz7m6id/zgu1lm1lcmxpbm56lmxpbms=?ed=2560&amp;security=tls&amp;encryption=none&amp;host=936a99B4.Vde5-MlX81LANeo.pAgES.dEv&amp;type=ws&amp;sni=936a99B4.Vde5-MlX81LANeo.pAgES.dEv#𝐜𝐡𝐚𝐧𝐧𝐞𝐥:+⭐️@V2rayNG_Outlinee⭐️
 vless://2b59f595-bc0e-4642-a542-e8e0fc8926b6@104.17.35.37:8080?path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed=8080&amp;security=none&amp;encryption=none&amp;host=join-to.vmessorg.Community.&amp;type=ws#𝐜𝐡𝐚𝐧𝐧𝐞𝐥:+⭐️@V2rayNG_Outlinee⭐️
