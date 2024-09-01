@@ -1866,7 +1866,6 @@ vless://414ec795-648c-4c59-de88-e1dee89a30aa@104.21.69.44:2087?security=tls&amp;
 vless://4548173f-4b67-4126-b098-29e1b0500767@185.218.139.118:43633?security=none&amp;type=grpc#
 vless://1e5de110-c081-498b-8c0e-44e475593476@108.165.216.234:2053?security=tls&amp;sni=nhtfjyytf.mic-mokhaderat-irancell-shatel-irancel.shop&amp;type=grpc#
 vless://d4e4f972-15fb-4748-85ef-f5c77438ee91@162.159.135.232:2096?security=tls&amp;sni=poy-uk.sg-forum.info&amp;type=grpc&amp;fp=chrome&amp;alpn=h2#
-vless://Telegram-ipV2Ray-how@www.speedtest.net:80?security=none&amp;encryption=none&amp;type=httpupgrade#All
 vless://Tel--ZEDMODEON@188.114.98.45:8080?security=none&amp;encryption=none&amp;type=httpupgrade#All
 vless://biain--ZEDMODEON@speedtest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=snapp.taxi&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-@ZEDMODEON?ed=2048&amp;sni=speedtest.net&amp;fp=chrome#All
 vless://SVNTEAM23@speedtest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=Speed.Site&amp;path=/SVNTEAM,Channel,Telegram,SVNTEAM?ed&amp;sni=speedtest.net&amp;fp=firefox&amp;alpn=h2,http/1.1#All
