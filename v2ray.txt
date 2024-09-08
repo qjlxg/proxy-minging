@@ -268,7 +268,6 @@ hysteria2://sharecentrepro@de.sharecentrepro.link:4433?peer=de.sharecentrepro.li
 hy2://sharecentrepro@de.sharecentrepro.link:4433?insecure=1&amp;sni=
 hysteria2://sharecentrepro@us.sharecentrepro.link:4433?peer=us.sharecentrepro.link&amp;obfs=none&amp;downmbps=1000#SCP2
 hy2://sharecentrepro@us.sharecentrepro.link:4433?insecure=1&amp;sni=
-vless://205548fa-bd2c-4957-f29f-fdc85dd02909@89.117.217.34:12812/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=www.sega.com&amp;fp=random&amp;security=reality&amp;pbk=qCZUdWQZ2H33vWXnOkG8NpxBeq3qn5QWXlfCOWBNkkc&amp;sid=dd118d01#1
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206N3Nnc0pEYjRXOTR4blRIeVdtWEw5TXpZU0hRNTBvM2NoL2VFRHloN0NDdz06clpXcXhaVDNKSkxYbms3NFFRdk5TaEt3ejkyVXpjSTlKZERlR3lkOE5POD0@
 vmess://eyJhZGQiOiIxMjAuMjMyLjIzOS4yMyIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIwNWQ4ZTY1Zi0wNzc1LTM2YTYtOTMzNi0xMTA2ZDllZDA0MWMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEyMDE1IiwicHMiOiJOZWFyb3V0ZSBTaW5nYXBvcmUgXzwiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 trojan://236ee4a7-438d-418a-83d1-13337a1e8056@47.101.71.126:12041?security=tls&amp;sni=cdn.alibaba.com&amp;allowInsecure=1&amp;fp=chrome&amp;type=tcp#Oracle Korea _<
@@ -287,6 +286,9 @@ vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ8RnJlZSBoayBieSBTZWxlbmUiLAogICJhZGQiOiAi
 vless://89b90001-4206-4871-a99d-1744d48f215b@103.17.99.37:19280?mode=multi&amp;security=reality&amp;encryption=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;pbk=F5_aTQFA2QRCig3L-qT0Qth76JdewSHK5MgEt_p8Dlo&amp;sid=a8bd783f&amp;sni=cdn-dynmedia-1.microsoft.com&amp;servername=cdn-dynmedia-1.microsoft.com&amp;spx=/&amp;fp=qq#HK+01、
 ss://YWVzLTI1Ni1nY206ODkyNGJjYjItNjY2Yi00ZjQ5LTliZmUtZjg5NmNiMDI3MGEw@a019.standard-nodes-chickenfarms.com:50000#Amazon USA _<
 ss://cmM0LW1kNTpRUmREMkNM@36.137.180.24:20056?plugin=obfs-local;obfs=tls;obfs-host=cb6e9171.intl.taobao.com#xTom USA _<
+ss://YWVzLTI1Ni1nY206MzhlNjQ1Y2ItNWIwNS00OGNmLTkwNDYtMDMwZTE1NTEzOTcz@aca-cm-js-4g.cfprefer1.xyz:10022#Akamai Japan _<
+ss://YWVzLTI1Ni1nY206Zjg2MjdiNjQtOGRjZS00NDI1LWI4NDQtZTI3NmEzMmJlYzJk@aca-cm-js-4g.cfprefer1.xyz:10019#Akamai Japan #2 _<
+ss://YWVzLTEyOC1nY206YzU5YjE4YjgtZTE0Ni00MmQ4LTk5NDgtOWE1ZWJmYWY3NThi@ss.jpnlink.xyz:20846#Apple Japan _<
 vmess://eyJzbmkiOiIiLCJob3N0IjoiIiwicHMiOiJwcm94eSIsInNjeSI6ImF1dG8iLCJhZGQiOiIxOTguMi4yMDguMTc5IiwibmV0IjoidGNwIiwidiI6MiwidGxzIjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJwYXRoIjoiIiwicG9ydCI6MzU0MDIsInR5cGUiOiIiLCJhaWQiOjY0fQ
 vmess://eyJzbmkiOiIiLCJob3N0IjoiIiwicHMiOiJwcm94eSIsInNjeSI6ImF1dG8iLCJhZGQiOiIxNTYuMjI1LjY3LjEwMiIsIm5ldCI6InRjcCIsInYiOjIsInRscyI6IiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwicGF0aCI6IiIsInBvcnQiOjQ0MzMxLCJ0eXBlIjoiIiwiYWlkIjo2NH0
 vmess://eyJzbmkiOiIiLCJob3N0IjoiIiwicHMiOiJwcm94eSIsInNjeSI6ImF1dG8iLCJhZGQiOiIxNDIuNC45OS42OCIsIm5ldCI6InRjcCIsInYiOjIsInRscyI6IiIsImlkIjoiYjY1ZGE0YWYtYTEyYS00YTU5LTkzMTYtNDU0OWUxMmJhNjJjIiwicGF0aCI6IiIsInBvcnQiOjQxMTY5LCJ0eXBlIjoiIiwiYWlkIjo2NH0
