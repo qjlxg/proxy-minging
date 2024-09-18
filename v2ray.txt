@@ -61,7 +61,6 @@ trojan://414dff55-922a-4dc8-b5d3-b6517942b25a@east.eeeeeef998.buzz:15006?allowIn
 trojan://414dff55-922a-4dc8-b5d3-b6517942b25a@east.eeeeeef998.buzz:15002?allowInsecure=1&amp;sni=data.steamdownload.top#美国+2
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@135.125.172.153:443#法国
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkUFc2U0toVmZxRGV2QmZkcnQ1ZUpn@95.164.87.138:63830#美国
-vless://28aef439-a02b-4db8-e95a-6f3bb790a512@[2a0f:7803:fb31:22::a]:51825/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=www.icloud.com&amp;fp=chrome&amp;security=reality&amp;pbk=9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc&amp;sid=#�…
 hy2://416a73a2-ca52-4cb7-bc15-40a4dbf90e53@shs2233.yjy.lol:443/?mport=20000-50000#美国公益线路2@ggboo_bot
 hy2://416a73a2-ca52-4cb7-bc15-40a4dbf90e53@shs1111.yjy.lol:443/?mport=20000-50000#美国公益线路@ggboo_bot
 hy2://416a73a2-ca52-4cb7-bc15-40a4dbf90e53@shouer50.yjy.lol:443/?mport=20000-50000#韩国公益线路@ggboo_bot
