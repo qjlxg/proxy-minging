@@ -420,6 +420,7 @@ vless://bd2bb586-a0b8-4e95-d291-05877feeb98f@irancell.galaxy-v.cfd:2053?security
 vless://f50eef1e-a081-42ed-a3ac-bcf788e26eb1@irancell.galaxy-v.cfd:2053?security=none&amp;encryption=none&amp;host=m-power.galaxy-v.cfd&amp;headerType=http&amp;type=tcp#irancell-رایگان+ایرانسل+2
 vmess://eyJhZGQiOiJraW5nLmZveC1pcy5tb25zdGVyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJraW5nLmZveC1pcy5tb25zdGVyIiwiaWQiOiIzZmM0MDgxZS03MDU0LTQ3MGQtZDQ4My05NGU5MjQ0OGZlMTQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvR2FsYXh5X1ZwbnMiLCJwb3J0IjoiMjA4MiIsInBzIjoiR2FsYXh5Mi3Ysdin24zar9in2YYg2YfZhdix2KfZhyDYp9mI2YQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vless://a121d165-b275-47af-9e3f-c886f26207aa@ani.fox-is.monster:443?security=tls&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp&amp;sni=me.fox-is.monster#رایگان+-+پینگ+65-70
+vless://68dd4663-ffc2-4b68-acd5-3d10412c894e@XsV2ray.xalixv2ray.space:443?mode=multi;security=reality;encryption=none;pbk=hbmwoSOK2SM0C_FmhWJJZM-up8d4dDOMscmyCA8gynk;fp=firefox;spx=/;type=grpc;serviceName=@XsV2ray,@XsV2ray;sni=www.speedtest.net;sid=7e4e8776#@GanGsTer_VPN+|+@GanGsTer_Vpn+|+@GanGsTer_Vpn
 vless://57acb014-87f9-4b92-9028-3b0160b34310@VPN-MIKEYmtn.ddns.net:443?mode=gun;security=tls;encryption=none;type=grpc;serviceName=@Vpn_Mikey،@Vpn_Mikey;sni=V2ray.VPN-MIKEY.cfd#@GanGsTer_Vpn+|+@GanGsTer_Vpn+|+@GanGsTer_Vpn
 vless://54bc97e6-b56b-4114-890f-9475c799aab3@VPN-MIKEYmci011.ddns.net:2096?mode=gun;security=tls;encryption=none;type=grpc;serviceName=@Vpn_Mikey،@Vpn_Mikey;sni=V2ray.VPN-MIKEY.cfd#@GanGsTer_Vpn+|+@GanGsTer_Vpn+|+@GanGsTer_Vpn
 vless://94a1220f-fcaa-4e34-8ec2-fc1ce86b47aa@all.vpncustomize.cam:2096?mode=gun;security=tls;encryption=none;type=grpc;serviceName=@VPNCUSTOMIZE;sni=CaNNectV2ray-OnlyIRAN-mCi-iraracnzsk-rgt-mkh.varzesh3-CDN.site#@GanGsTer_Vpn+|+@GanGsTer_Vpn+|+@GanGsTer_Vpn
@@ -1273,7 +1274,6 @@ vless://7fc5ab7c-57c3-4cad-ba92-a31101ea6db7@95.217.158.157:443?security=none&am
 vless://--------NORBERT-VPN--------@46.245.66.198:1232?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#NORBERT-VPN
 ss://,
 ssr://的格式
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMGwzb1hmbkE1Y3BJNGdrREFiYmFt@81.19.141.45:52873#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppUGoySkZMcTZWSWptQVBrWUg4M3lV@81.19.141.45:52873#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsREZPN3pobTFlM29TWTZ0Q204RDAw@81.19.141.45:52873#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsaEs4ZjU0VkdGaUROS0dTbnRlS0sx@89.185.84.185:12575#
@@ -1283,6 +1283,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDc0ZOYkpJbE9YVkpxa1B3alBTbXF1@81.19.141.45:5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXck93elhXNTdWMXM2cm9nSTNTanpO@89.185.84.185:12575#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppY3lscm1HdzYxTklOQmZjdThNcUw2@194.87.45.189:40076#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjSk1qTVRYamFnMFhoeGFvUWZOMndw@89.185.84.185:12575#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3b1dKQXRya09lbE01NTRFUzNJWUgz@194.87.45.189:40076#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsVTYqVjg9c2hQ@77.221.154.33:59529#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCMjVnVmtDYXNQUWpJM2FqbDVQejVB@185.103.103.4:1080#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMNUJxZUNQcUgxczVqcWM2MVlXOTZo@80.66.64.39:14824#
