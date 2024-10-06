@@ -407,9 +407,6 @@ vless://3a3cf4a6-23eb-4382-88d9-58f1032d4dea@190.93.247.155:443?mode=gun&amp;sec
 vless://680d3d6c-ea33-4e4b-9292-c8ce2a9e426f@190.93.247.155:443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=@puni_shop_v2rayNG،@puni_shop_v2rayNG&amp;sni=Punisher-V2rayCnc.radiotehran.org#all+net+2
 vless://b0b6f18e-d975-46d2-a627-c3a626dac101@190.93.247.155:8443?path=/P?ed=2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=Punisher-V2rayCnc.radiotehran.org&amp;fp=chrome&amp;type=ws&amp;sni=Punisher-V2rayCnc.radiotehran.org#ws+all+net
 vless://3a3cf4a6-23eb-4382-88d9-58f1032d4dea@190.93.247.155:443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=@puni_shop_v2ra…
-trojan://Watashi_VPN@104.27.7.142:2053?path=/?TM@AZARBAYJAB1+TM@AZARBAYJAB1+@AZARBAYJAB1&amp;security=tls&amp;host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&amp;fp=chrome&amp;type=ws&amp;sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#@GiveVPN
-vless://03a987de-7e12-4b38-acbc-e19c90e1cc85@104.16.14.99:443?path=/&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=ARCane-ROYAL.Pages.DEV&amp;type=ws&amp;sni=ARCane-ROYAL.Pages.DEV#@GiveVPN
-vless://c46e9a8a-226e-4cc2-aeff-31c774e1e4f9@172.66.47.182:443?path=/Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN?ed=2048&amp;security=tls&amp;encryption=none&amp;host=pardazeshvpn-tg93.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=pardazeshvpn-tg93.pages.dev#@GiveVPN
 trojan://Watashi_VPN@104.18.26.94:8443?path=/&amp;security=tls&amp;host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&amp;type=ws&amp;sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#@GiveVPN
 trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.18:443?path=6b777a91&amp;security=tls&amp;host=avianrecruit.com&amp;type=ws&amp;sni=avianrecruit.com#@GiveVPN
 trojan://Watashi_VPN@104.27.7.142:2053?path=/?TM@AZARBAYJAB1+TM@AZARBAYJAB1+@AZARBAYJAB1&amp;security=tls&amp;host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&amp;fp=chrome&amp;type=ws&amp;sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#@GiveVPN
@@ -659,6 +656,7 @@ vless://IP_CF
 vless://23477e29-307d-4bb6-9d46-198dfb9b4cc6@wWw.SpEeDtEsT.net:2087?path=/@mohammad?ed=2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=admelitebook.mmdpremium.sbs&amp;fp=firefox&amp;type=httpupgrade&amp;sni=admelitebook.mmdpremium.sbs#⚜️Telegram:+@IP_CF
 vless://IP_CF
 vless://23477e29-307d-4bb6-9d46-198dfb9b4cc6@wWw.SpEeDtEsT.net:2087?path=/@mohammad?ed=2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=admelitebook.mmdpremium.sbs&amp;fp=firefox&amp;type=httpupgrade&amp;sni=admelitebook.mmdpremium.sbs#⚜️Telegram:+@IP_CF
+vless://IP_CF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZzlnS1diV2dKOGFqM0ZmVU42WnR1@51.142.92.199:44934#@IP_Ramzi+|+به+سوی+آزادی
 vless://ca3b458f-d5ba-4e81-8cdb-ca40eb193ebd@54.37.6.85:2096?security=none&amp;encryption=none&amp;host=ghbi.ir&amp;headerType=http&amp;type=tcp#@IP_Ramzi+|+به+سوی+آزادی
 vless://43d327c1-ab4a-42e6-918a-00b168b3616c@141.95.106.230:38818?security=none&amp;encryption=none&amp;host=ghbi.ir&amp;headerType=http&amp;type=tcp#@IP_Ramzi+|+به+سوی+آزادی
@@ -1114,10 +1112,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEa2FkaXhBaVVrVjM3Z1l3MkJhZEY1@194.87.45.189:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnNnZ1NzVMelRVNFZMRmx3OThGMUNh@194.87.45.189:40076#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpicTF1WHlPQ2VxSTkxcDlNbjBmS3Zz@77.83.246.74:33320#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpON0szMFhlMGNrUWFwYzdDeTJ0T3Jq@77.83.246.74:33320#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQM1pOY09rdVo2anVhSUFHRk01WnBR@92.118.112.254:1080#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBTlR1QWdHOXdlb3MzejFDMnAzQVZm@89.185.84.185:12575#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplQmR4YlZra0kzTmZrWDU0bEMzelFL@147.45.114.160:20810#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpreEw2Y3F0MnFLRzhGR1ZFTHNWWWVY@89.110.70.175:13402#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YmtoNzVLa3VZQWE0T2NLTXZmaFlY@193.222.97.89:51226#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZTk1ZzQtWER3Mm85Z0M1QkdtamRB@38.180.158.38:5555#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyRmF6PTBHN29G@109.120.186.9:45931#
@@ -1132,6 +1126,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4elFqMUl2NHdYUFhYMm1peXA4RjlV@89.110.70.175:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiVklkTVM0NGdCWGRhSjlncVZGM2Vj@62.133.63.21:65262#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFbldXQTBDTjhtWGdpdUEydlkzbk9z@62.133.63.21:65262#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjbjAxYTREQlBOaHpvVUJmd3Z5NTF0@89.110.70.175:13402#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwSXUwSjJERjlmc2w4QUhRUW1zNHlo@62.133.60.60:21712#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRWs0M3ZWZkg1c0FvSDQzVGdISjl2@92.118.112.101:9483#
 vless://telegram-id-PcV2ray@www.speedtest.net:8080?type=ws&amp;path=/telegram-PcV2ry,telegram-PcV2ry,telegram-PcV2ry,telegram-PcV2ry,telegram-PcV2ry,telegram-PcV2ry,telegram-PcV2ry,telegram-PcV2ry?ed=8080&amp;host=www.speedtest.net.G.1.mehpow.ir&amp;security=none#WS1-Irancell|PcV2ray
 vless://telegram-id-PcV2ray@speedtest.net:443?security=tls&amp;sni=speedtest.net&amp;type=ws&amp;path=/telegram-PcV2ray,telegram-PcV2ray,telegram-PcV2ray,telegram-PcV2ray,telegram-PcV2ray,telegram-PcV2ray,telegram-PcV2ray,telegram-PcV2ray?ed=2048&amp;host=hwdrt11.ir&amp;encryption=none#TLS-WS1-ALL|PcV2ray
 vless://telegram-id-PcV2ray@speedtest.net:443?path=/telegram-PcV2ray,telegram-PcV2ray,telegram-PcV2ray,telegram-PcV2ray,telegram-PcV2ray,telegram-PcV2ray,telegram-PcV2ray,telegram-PcV2ray?ed=2048&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http/1.1&amp;host=ie6gbis.ir&amp;fp=chrome&amp;type=ws&amp;sni=speedtest.net#TLS-WS2-ALL|PcV2ray
@@ -1146,7 +1142,6 @@ vless://517b738c-5203-433b-894f-dd5d304a9a00@speedtest.net:443?security=tls&amp;
 vless://telegram-id-PcV2ray@www.speedtest.net:8080?type=ws&amp;path=/telegram-PcV2ry,telegram-PcV2ry,telegram-PcV2ry,telegram-PcV2ry,telegram-PcV2ry,telegram-PcV2ry,telegram-PcV2ry,telegram-PcV2ry?ed=8080&amp;host=www.speedtest.net.H.1.mehpow.ir&amp;security=none#WS1-Irancell|PcV2ray
 vless://telegram-id-PcV2ray@bwdraper.faculty.ucdavis.edu:443?security=tls&amp;sni=bwdraper.faculty.ucdavis.edu&amp;type=ws&amp;path=/telegram-PcV2ray,telegram-PcV2ray,telegram-PcV2ray,telegram-PcV2ray,telegram-PcV2ray,telegram-PcV2ray,telegram-PcV2ray,telegram-PcV2ray?ed=2048&amp;host=Hbugvyj23.net&amp;encryption=none#TLS-WS1-ALL|PcV2ray
 vless://telegram-id-PcV2ray@bwdraper.faculty.ucdavis.edu:443?path=/telegram-PcV2ray,telegram-PcV2ray,telegram-PcV2ray,telegram-PcV2ray,telegram-PcV2ray,telegram-PcV2ray,telegram-PcV2ray,telegram-PcV2ray?ed=2048&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http/1.1&amp;host=Kjnhbg37.net&amp;fp=chrome&amp;type=ws&amp;sni=bwdraper.faculty.ucdavis.edu#TLS-WS2-ALL|PcV2ray
-vless://4ce1f615-a341-4832-ba2e-0cd8858539d9@speedtest.net:443?path=/Telegram,VPNCUSTOMIZE?ed=443&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http/1.1&amp;host=VPNCUSTOMIZE.azmoon.net&amp;fp=chrome&amp;type=ws&amp;sni=speedtest.net#Telegram+:+@proxy_kafee�%9…
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.98:443?path=Telegram+:+@vpnwedbaz+-+Telegram+:+@vpnwedbaz+-+Telegram+:+@vpnwedbaz+-+Telegram+:+@vpnwedbaz+-+Telegram+:+@vpnwedbaz+-+Telegram+:+@vpnwedbaz+-+Telegram+:+@vpnwedbaz?ed=2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=94812051.bpb-worker-panel-20a.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=94812051.bPB-wOrKer-pAnEL-20a.pAgEs.dEV#@proxy_kafee+🤍
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#join+5+ID(@proxy_kafee)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#join+6+ID(@proxy_kafee)
@@ -2052,8 +2047,6 @@ vless://bd797ce7-559c-4d89-9a46-b95a15e991df@discord.gg:443?path=/&amp;security=
 vless://eb590590-4714-4393-8611-605318f12342@Join.ShhProxy.Site:80?path=/&amp;security=none&amp;encryption=none&amp;host=shhproxy.xn--85-pv2cl2k5x3fipr.org&amp;type=ws#@V2rayNg_NvVPN
 vless://917c648b-4b7f-4fc2-9d59-899dd4b7cba4@discord.gg:80?path=/&amp;security=none&amp;encryption=none&amp;host=shhproxy-free.xn--85-pv2cl2k5x3fipr.org.&amp;type=ws#@V2rayNg_NvVPN
 vless://eb590590-4714-4393-8611-605318f12342@Join.ShhProxy.Site:80?path=/&amp;security=none&amp;encryption=none&amp;host=shhproxy.xn--85-pv2cl2k5x3fipr.org&amp;type=ws#@V2rayNg_NvVPN
-vless://telegram-id-ArV2ray@www.speedtest.net:8080?path=/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry?ed=8080&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.7.f.mehpow.iR.&amp;type=ws#سرور+رایگان+و+گودرتمند😎🎁🔰+@V2RAYNG_Outline_VPN
-vless://a4682305-d2dc-4d1b-b753-30565a511ded@speedtest.net:443?path=/Telegram,VPNCUSTOMIZE?ed=443&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http/1.1&amp;host=VPNCUSTOMIZE.azmoon.net&amp;fp=chrome&amp;type=ws&amp;sni=speedtest.net#سرور+رایگان+و+گودرتمند😎🎁🔰+@V2RAYNG_Outline_VPN
 vless://a4682305-d2dc-4d1b-b753-30565a511ded@104.17.234.114:8443?path=/Telegram,VPNCUSTOMIZE?ed=8080&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http/1.1&amp;host=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&amp;fp=chrome&amp;type=ws&amp;sni=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com#سرور+رایگان+و+گودرتمند😎🎁🔰+@V2RAYNG_Outline_VPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#سرور+رایگان+و+گودرتمند😎🎁🔰+@V2RAYNG_Outline_VPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#سرور+رایگان+و+گودرتمند😎🎁🔰+@V2RAYNG_Outline_VPN
@@ -2683,7 +2676,6 @@ vless://496475c7-bb33-4515-8b45-d5fd1ae423bb@speed.cloudflare.com:2096?mode=gun&
 vless://57e15194-5fca-43bf-9672-9a51578ece6e@162.159.15.252:2053?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=firefox&amp;type=grpc&amp;serviceName=fix.ahwaz14.ir&amp;sni=fix.ahwaz14.ir#1-ify7fcjx
 vless://0ccce1b6-e255-439a-a968-5a1a2ac7c04d@151.101.130.133:443?security=tls&amp;sni=zmaoz.faculty.ucdavis.edu&amp;fp=random&amp;type=ws&amp;path=/?ed=2048&amp;host=bia-vip-programs.ir&amp;encryption=none#چنل ما : @vip_programs
 vless://0ccce1b6-e255-439a-a968-5a1a2ac7c04d@151.101.130.133:443?security=tls&amp;sni=zmaoz.faculty.ucdavis.edu&amp;fp=random&amp;type=ws&amp;path=/?ed=2048&amp;host=bia-vip-programs.ir&amp;encryption=none#چنل ما : @vip_programs…
-vless://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443?path=/telegram-@proxy_mtm-telegram-Telegram-proxy_mtm-proxy_mtm-proxy_mtm-proxy_mtm-@proxy_mtm-@proxy_mtm-@proxy_mtm-@proxy_mtm-@proxy_mtm-telegram-@proxy_mtm?ed=2048&amp;security=tls&amp;encryption=none&amp;host=119f3a0b.chikiy123w.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=119f3a0b.chikiy123w.pages.dev#کانفیگ+پرسرعت+رایگان🌋@vmesc
 vless://f06ac303-e626-451d-bcfc-ee825ee69398@104.18.1.20:443?path=/oyF1T0jNP2ARuOYS?ed=2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=AZaDnet-SEmEj.pAgEs.DeV&amp;fp=randomized&amp;type=ws&amp;sni=azadNet-SeMej.PAGES.DEV#کانفیگ+پرسرعت+رایگان🌋@vmesc
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2096?path=/Telegram@V2ray_Alpha/?ed=2560&amp;security=tls&amp;encryption=none&amp;host=JOInv2ngFaSt-2mM.pAges.DeV&amp;type=ws&amp;sni=JoinV2nGFaSt-2MM.pAges.DEV#کانفیگ+پرسرعت+رایگان🌋@vmesc
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@speedtest.org:2096?path=/telegram-@proxy_mtm-telegram-Telegram-proxy_mtm-proxy_mtm-proxy_mtm-proxy_mtm-@proxy_mtm-@proxy_mtm-@proxy_mtm-@proxy_mtm-@proxy_mtm-telegram-@proxy_mtm-telegram?ed=2048&amp;security=tls&amp;encryption=none&amp;host=JOInv2ngFaSt-2mM.pAges.DeV&amp;type=ws&amp;sni=JoinV2nGFaSt-2MM.pAges.DEV#کانفیگ+پرسرعت+رایگان🌋@vmesc
@@ -2703,6 +2695,7 @@ vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@172.66.47.200:443?path=/StDNeNqkbQx
 vless://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@104.20.78.17:443?path=/Telegram@Azarakhsh_Proxy/?ed=2048&amp;security=tls&amp;encryption=none&amp;host=dc1bf227.vf-8co.pages.dev&amp;type=ws&amp;sni=dc1bf227.vf-8co.pages.dev#کانفیگ+پرسرعت+رایگان🌋@vmesc
 vless://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?path=/?ed=2048&amp;security=tls&amp;encryption=none&amp;host=aksnmaioas.pages.dev&amp;type=ws&amp;sni=aksnmaioas.pages.dev#کانفیگ+پرسرعت+رایگان🌋@vmesc
 vless://h4qabl4u7k@h4qabl4u7k-417222582-direct.19kala.co:2053?security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=h4qabl4u7k-417222582-direct.19kala.co#کانفیگ+پرسرعت+رایگان🌋@vmesc
+vless://e7f6e06e-9426-478c-9d1e-3619f0d1f241@104.18.218.118:8443?path=/Telegram,VPNCUSTOMIZE?ed=8443&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http/1.1&amp;host=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com&amp;fp=chrome&amp;type=ws&amp;sni=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com#کانفیگ+پرسرعت+رایگان🌋@vmesc
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@104.16.16.16:443?path=/Telegram-XV2ry2?ed=512&amp;security=tls&amp;encryption=none&amp;host=telegrm432XV2ray-XV2ray-XV2ray-XV2ray-XV2ray-XV2ray-XV2ray.pages.dev&amp;type=ws&amp;sni=Pages.dev#@vmess_vless_v2rayng
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@172.67.139.111:443?path=/Telegram-XV2ry2?ed=512&amp;security=tls&amp;encryption=none&amp;host=telegrm432XV2ray-XV2ray-XV2ray-XV2ray-XV2ray-XV2ray-XV2ray.pages.dev&amp;type=ws&amp;sni=Pages.dev#@vmess_vless_v2rayng
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?path=/&amp;security=none&amp;encryption=none&amp;host=v2ra1.ecrgpk.workers.dev&amp;type=ws#@vmess_vless_v2rayng
@@ -2901,6 +2894,12 @@ vless://34b4478d-6ea9-4973-9317-7dfc5dc33117@185.148.106.64:2053?encryption=none
 vless://34b4478d-6ea9-4973-9317-7dfc5dc33117@188.164.159.173:2053?encryption=none&amp;security=tls&amp;sni=connectingno.technewspaper.store&amp;alpn=h2,http/1.1&amp;type=grpc#vpnstable ⬅️ تلگرام
 vless://34b4478d-6ea9-4973-9317-7dfc5dc33117@188.164.158.161:2053?encryption=none&amp;security=tls&amp;sni=connectingno.technewspaper.store&amp;alpn=h2,http/1.1&amp;type=grpc#vpnstable ⬅️ تلگرام
 vless://34b4478d-6ea9-4973-9317-7dfc5dc33117@188.164.158.246:2053?encryption=none&amp;security=tls&amp;sni=connectingno.technewspaper.store&amp;alpn=h2,http/1.1&amp;type=grpc#vpnstable ⬅️ تلگرام
+vless://5dea27e4-6c7c-4731-9574-e6e554cb6f55@45.131.6.43:2053?encryption=none&amp;security=tls&amp;sni=connectingno.technewspaper.store&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc#vpnstable ⬅️ تلگرام
+vless://5dea27e4-6c7c-4731-9574-e6e554cb6f55@www.vultr.com:2053?encryption=none&amp;security=tls&amp;sni=connectingno.technewspaper.store&amp;alpn=h2,http/1.1&amp;type=grpc#vpnstable ⬅️ تلگرام
+vless://5dea27e4-6c7c-4731-9574-e6e554cb6f55@tgju.org:2053?encryption=none&amp;security=tls&amp;sni=connectingno.technewspaper.store&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc#vpnstable ⬅️ تلگرام
+vless://5dea27e4-6c7c-4731-9574-e6e554cb6f55@188.164.158.246:2053?encryption=none&amp;security=tls&amp;sni=connectingno.technewspaper.store&amp;alpn=h2,http/1.1&amp;fp=firefox&amp;type=grpc#vpnstable ⬅️ تلگرام
+vless://5dea27e4-6c7c-4731-9574-e6e554cb6f55@188.164.158.208:2053?encryption=none&amp;security=tls&amp;sni=connectingno.technewspaper.store&amp;alpn=h2,http/1.1&amp;fp=firefox&amp;type=grpc#vpnstable ⬅️ تلگرام
+vless://5dea27e4-6c7c-4731-9574-e6e554cb6f55@188.164.158.117:2053?encryption=none&amp;security=tls&amp;sni=connectingno.technewspaper.store&amp;alpn=h2,http/1.1&amp;fp=firefox&amp;type=grpc#vpnstable ⬅️ تلگرام
 vless://6945a4ab-64da-4d4c-a329-c0d210557231@s3.scan3.shop:46489?security=none&amp;encryption=none&amp;host=namasha.com&amp;headerType=http&amp;type=tcp#@VPNTAKO&🇨🇮IRELAND-ایرانسل
 vless://1ff06fb8-bf1c-481e-82d1-7f6ed70a2804@somon6.masternft1.shop:8088?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=WhWa8mRmPsCw5CI2Vsem57h0oYGfi1nucgToOhfx1Uw&amp;fp=firefox&amp;spx=/&amp;type=grpc&amp;serviceName=&amp;sni=www.coinmarketcap.com&amp;sid=04b5d922#VLESS*GRPC-Free+@VPNTAKO
 trojan://7cb0d977-799e-4768-9ec6-ccd179a92715@cloud.sobhan.fun:443?path=/W7RfbbiLXkwOEvspY8C&amp;security=tls&amp;alpn=http/1.1&amp;fp=firefox&amp;type=ws&amp;sni=cloud.sobhan.fun#@VPNTAKO+&⏳1.5TB
