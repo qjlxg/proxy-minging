@@ -993,10 +993,10 @@ vless://7fc5ab7c-57c3-4cad-ba92-a31101ea6db7@95.217.158.157:443?security=none&am
 vless://--------NORBERT-VPN--------@46.245.66.198:1232?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#NORBERT-VPN
 ss://,
 ssr://的格式
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDenExYmQzUWg0TXRjcTRPRGEwQkdU@81.19.141.45:52873#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCeVg3Y1VJYndmS2lreWR4Q3VQUEcx@194.87.45.189:40076#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplenBKa0NycGk4YXpZTnFwbVcwYkhF@89.185.84.185:12575#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDWUlZZFBQcE91QWpIckVVaGxZbW9y@77.83.246.74:33320#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxT3BzUkRKQUlvOUlIYk5iU2haVG5W@194.87.45.189:40076#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwSXUwSjJERjlmc2w4QUhRUW1zNHlo@62.133.60.60:21712#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRWs0M3ZWZkg1c0FvSDQzVGdISjl2@92.118.112.101:9483#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptaWdpakgxMlZtRmhUUFBWVVF6U2Nt@147.45.114.160:20810#
