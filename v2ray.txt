@@ -292,6 +292,7 @@ vmess://eyJhZGQiOiI4OS4xMTYuMzguMTcwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vless://d3fd9082-6ba0-42ef-9a79-87c7fea7eda9@garnet.torch1.top:443/?type=ws&amp;path=/&amp;security=tls&amp;fp=chrome&amp;alpn=h2,http/1.1#Free
 vless://d3fd9082-6ba0-42ef-9a79-87c7fea7eda9@garnet.torch1.top:443/?type=ws&amp;path=/&amp;security=tls&amp;fp=chrome&amp;alpn=h2,http/1.1#Free
 vless://d3fd9082-6ba0-42ef-9a79-87c7fea7eda9@garnet.torch1.top:443/?type=ws&amp;path=/&amp;security=tls&amp;fp=chrome&amp;alpn=h2,http/1.1#Free
+vless://a485ef08-b622-4ac2-817f-2785cbbf3455@151.101.194.133:443?path=/HHJ1feCQkdARo4ZzMOCSwT&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;host=ms4bdcc9cbbbfdc1cb06245d5a1f.repl.co&amp;fp=chrome&amp;type=ws&amp;sni=asu.edu#🇩🇪+@ge2ray
 vless://a94edb46-0734-4593-a8b5-9cd11ddc57f6@104.18.218.118:443?path=/Telegram-@Azarakhsh_Proxy/?ed=2560&amp;security=tls&amp;encryption=none&amp;host=5c53ca21.vpn-aryoo.pages.dev&amp;type=ws&amp;sni=5c53ca21.vpn-aryoo.pages.dev#@gervpn
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=/ISB6gvC3mmVSWxzE?ed=2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=joinmahdiseRver-Az7.pAgES.dev&amp;fp=randomized&amp;type=ws&amp;sni=jOInmAHDiSERVer-AZ7.paGes.dEV#@gervpn
 vless://bf7e1009-1574-44f7-86df-6cbecd338477@172.66.47.106:443?path=/?ed=2048&amp;security=tls&amp;encryption=none&amp;host=pardazeshvpn-tg18.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=pardazeshvpn-tg18.pages.dev#@gervpn
@@ -1002,6 +1003,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOTE5YZnNLMFQxSENITGtXWERwOUdU@77.83.246.74:3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuRXlWb1d3MEhLblZzeGU4emJ4WEY2@89.185.84.185:12575#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxanFNWFdZaXBrd1BBSEcxZVpCY2gy@77.83.246.74:33320#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFR1FXa3RYNUQwbWdObGUya1JES1Jl@77.83.246.74:33320#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplenFTMnAwSkxQZEFhTUZVUTBPWWRa@81.19.141.45:52873#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwSXUwSjJERjlmc2w4QUhRUW1zNHlo@62.133.60.60:21712#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRWs0M3ZWZkg1c0FvSDQzVGdISjl2@92.118.112.101:9483#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptaWdpakgxMlZtRmhUUFBWVVF6U2Nt@147.45.114.160:20810#
