@@ -186,6 +186,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@35.178.91.178:443#t.me
 trojan://f0eb8c92ce8946aaba856569cff1a16b@104.19.171.3:443?security=tls&amp;sni=sherasheba.com&amp;type=ws&amp;host=sherasheba.com&amp;path=/6b777a91#t.me/entryNET
 vless://172165bd-8604-40fc-8e7b-db94a23cc002@151.101.2.216:80?path=/Telegram-------@PROXY_MTM-_-_-_-Telegram-------@PROXY_MTM-@PROXY_MTM-@PROXY_MTM/?ed=2048&amp;security=none&amp;encryption=none&amp;host=tehran1.ir&amp;type=ws#t.me/entryNET
 vless://7daf6801-f3b9-4139-8394-2dd91723c26f@104.17.234.114:8443?path=/Telegram,VPNCUSTOMIZE?ed=8080&amp;serviceName=t.me/entryNET&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http/1.1&amp;host=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&amp;fp=chrome&amp;type=ws&amp;sni=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com#t.me/entryNET
+vless://45d6db68-8895-468a-80f7-de24553e5b2f@www.speedtest.net:443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http/1.1&amp;authority=&amp;fp=chrome&amp;type=grpc&amp;serviceName=t.me/entryNET&amp;sni=adsl.felafel.org#t.me/entryNET
+ss://bm9uZTphY2NiYWFiLWFjYWItYmNhYS1iY2FkLWFiYmFjYmNiY2FjYQ==@127.0.0.1:1080#t.me/entryNET
 vless://Telegram-Ernoxin-Shop@172.64.155.249:80?type=ws&amp;path=/telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop?ed=2048&amp;host=3.V2ray.debian.org.fxp.uptvs.com.telewebion.com.speedtest.net.らわなさらわ.abolfazl.shop.&amp;security=none#@ernoxin_shop
 vless://Telegram-Ernoxin-Shop@172.64.155.249:80?type=ws&amp;path=/telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop?ed=2048&amp;host=1.V.v.V.v.V.v.V.v.V-_-_-V2ray-_-_-v.V.xn--9iqtb0z3kmg58ejur6wfbwf9muugk7rck30b0frbqkvk2bye0bm1a.abolfazl.shop.&amp;security=none#@ernoxin_shop
 vless://Telegram-Ernoxin-Shop@172.64.155.249:80?type=ws&amp;path=/telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop?ed=2048&amp;host=4.V.v.V.v.V.v.V.v.V-_-_-V2ray-_-_-v.V.v.xn--9iqtb0z3kmg58ejur6wfbwf9muugk7rck30b0frbqkvk2bye0bm1a.abolfazl.SHOP.&amp;security=none#@ernoxin_shop
@@ -1041,7 +1043,6 @@ vless://7fc5ab7c-57c3-4cad-ba92-a31101ea6db7@95.217.158.157:443?security=none&am
 vless://--------NORBERT-VPN--------@46.245.66.198:1232?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#NORBERT-VPN
 ss://,
 ssr://的格式
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxT3BzUkRKQUlvOUlIYk5iU2haVG5W@194.87.45.189:40076#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1SlhpSWhjYTBqU2tLcFh3bGxLY0tE@89.185.84.185:12575#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppSTU0RkU3bThzdmFVSTdqNWRFRFZ1@89.185.84.185:12575#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOTE5YZnNLMFQxSENITGtXWERwOUdU@77.83.246.74:33320#
@@ -1147,12 +1148,6 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?path=/iEKjUnufUj
 vless://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@172.66.47.130:443?path=/?ed=2048&amp;security=tls&amp;encryption=none&amp;host=dc1bf227.vf-8co.pages.dev&amp;type=ws&amp;sni=dc1bf227.vf-8co.pages.dev#ID(@proxy_kafee)+1592
 vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?path=/BDwnEtVwG7BS0S9f?ed=2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=iSAA1.paGEs.DEV&amp;fp=randomized&amp;type=ws&amp;sni=iSaa1.PAGeS.DeV#ID(@proxy_kafee)+1593
 vless://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?path=/?ed=2048&amp;security=tls&amp;encryption=none&amp;host=aksnmaioas.pages.dev&amp;type=ws&amp;sni=aksnmaioas.pages.dev#ID(@proxy_kafee)+1594
-vless://2b59d45d-cc1c-4185-84e4-2a038d9a9b68@puv3ktfai7oq3lm.iranbx.online:17634?type=tcp&amp;security=none#17634
-vless://77b345aa-65fc-48d3-811a-03b50a792171@prdofae87gcknky.iranbx.online:23855?type=tcp&amp;security=none#23855
-vless://6b5631ba-17d8-49b2-bb28-55606530767c@live.wkrq.com:443?path=/Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray?ed=2048&amp;security=tls&amp;encryption=none&amp;host=barkatc2.ir&amp;type=ws&amp;sni=live.wkrq.com#@flyv2ray
-vless://7a88516b-2194-42e8-b0d5-77594b35da9d@live.wkrq.com:443?path=/Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray?ed=2048&amp;security=tls&amp;encryption=none&amp;host=barkatc1.ir&amp;type=ws&amp;sni=live.wkrq.com#@flyv2ray
-vless://6b5631ba-17d8-49b2-bb28-55606530767c@live.wkrq.com:443?path=/Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray?ed=2048&amp;security=tls&amp;encryption=none&amp;host=barkatc2.ir&amp;type=ws&amp;sni=live.wkrq.com#@flyv2ray
-vless://7a88516b-2194-42e8-b0d5-77594b35da9d@live.wkrq.com:443?path=/Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray?ed=2048&amp;security=tls&amp;encryption=none&amp;host=barkatc1.ir&amp;type=ws&amp;sni=live.wkrq.com#@flyv2ray
 vless://daa299ad-af63-40ac-ba13-78459047faec@85.9.98.218:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#[🇮🇷]+T.me/PusyVpn
 vless://daa299ad-af63-40ac-ba13-78459047faec@85.9.98.218:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#[🇮🇷]+T.me/PusyVpn
 vless://45c24d3e-5f87-45a3-a440-b0d6d3e92082@5.57.33.227:5001?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#[🇮🇷]T.me/PusyVpn
@@ -2798,7 +2793,6 @@ vless://8dbf7960-0dc6-4ca9-89a2-a5aba18c3ba8@78.135.82.5:42447/?encryption=none&
 vmess://eyJhZGQiOiIxNDQuMjAyLjk1LjE5OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1MTRjZjA2NS01MDQ3LTRhNGQtZTM2OC1iYzg5Y2UzMWU3NzgiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI0NDE1IiwicHMiOiLwn4e68J+HuCBAVmlQX1Byb2dyYW1z8J+MufCfpI0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vless://1710c44e-73cf-4c3c-a7d0-d175e5d1e39c@128.140.104.199:9090/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;fp=firefox&amp;security=reality&amp;pbk=-OAPDf2TTHwS5odbYsuujO-q4ZmzP_BdTI3Wwm12qjY&amp;sid=402c5702#🇩🇪 @ViP_Programs🌹🤍
 ss://YWVzLTI1Ni1nY206ZVlJQW9HcUlpUnhvS0Y1enNucG1hZGUzVW5VRUpjaE5naE5ZbGlEVmxZaz0@91.107.160.111:36298#🇩🇪 @ViP_Programs🌹🤍 ss
-vless://9d1c74fe-6495-43c0-8c72-20a0b9a0c639@188.114.99.134:443?path=Telegram@V2ray_Alpha/?ed=2087&amp;security=tls&amp;encryption=none&amp;host=4ef0b961.aru0006.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=4ef0b961.aru0006.pages.dev#کانفیگ+پرسرعت+رایگان🌋@vmesc
 vless://b180509d-7501-488b-90da-dabf91ccd35f@104.17.148.22:8080?path=/G/b4t6hy5n/?ed=80120&amp;security=none&amp;encryption=none&amp;host=test.flnsho.store.&amp;type=ws#کانفیگ+پرسرعت+رایگان🌋@vmesc
 vless://ea93598b-a8d8-449a-a925-520c6e1626ee@172.66.44.128:443?path=Telegram@V2ray_Alpha/?ed=2087&amp;security=tls&amp;encryption=none&amp;host=pardazeshvpn-tg105.pages.dev&amp;type=ws&amp;sni=pardazeshvpn-tg105.pages.dev#کانفیگ+پرسرعت+رایگان🌋@vmesc
 vless://7daf6801-f3b9-4139-8394-2dd91723c26f@www.speedtest.net:8443?path=/Telegram,VPNCUSTOMIZE?ed=2480&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http/1.1&amp;host=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&amp;fp=chrome&amp;type=ws&amp;sni=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com#کانفیگ+پرسرعت+رایگان🌋@vmesc
@@ -2818,6 +2812,7 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?path=/Telegram@/
 vless://183c4cc0-c3bf-46c1-bae7-c25115ce07de@get-admin-upanel.poqpoq.cfd:8443?path=/Telegram,VPNCUSTOMIZE?ed=8443&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http/1.1&amp;host=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com&amp;fp=chrome&amp;type=ws&amp;sni=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com#کانفیگ+پرسرعت+رایگان🌋@vmesc
 vless://9520a1fd-5ced-4a0f-a912-ffabccc52543@81.12.27.90:39568?path=/&amp;security=none&amp;encryption=none&amp;type=ws#کانفیگ+پرسرعت+رایگان🌋@vmesc
 vless://5bcb458d-6f49-4e9b-9116-22cc638877d9@104.21.70.184:443?path=Telegram-------PROXY_MTM-_-_-_-Telegram-------PROXY_MTM/?ed=2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=ArIaMEHR.PaGeS.DEv&amp;fp=randomized&amp;type=ws&amp;sni=ARIaMEhR.pAGeS.Dev#کانفیگ+پرسرعت+رایگان🌋@vmesc
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#کانفیگ+پرسرعت+رایگان🌋@vmesc
 vless://34a83286-ba4e-4f0a-ac08-77a95469eeaf@172.66.47.155:443?path=/&amp;security=tls&amp;encryption=none&amp;host=pardazesh18.pages.dev&amp;type=ws&amp;sni=pardazesh18.pages.dev#کانفیگ+رایگان+تلگرام++|+EuServer
 vless://af9c101a-64c3-4678-b588-7fe1fc8fe698@185.146.173.58:8080?path=/servernett&amp;security=none&amp;encryption=none&amp;host=lc61.lebasnoo.ir.&amp;type=ws#کانفیگ+رایگان+تلگرام++|+EuServer
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1c:3786::1]:49461?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#کانفیگ+رایگان+تلگرام++|+EuServer
