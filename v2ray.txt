@@ -191,6 +191,8 @@ vless://7a283be9-9b98-460b-95d6-90e07c31cdd3@hajlab.ucdavis.edu:443?security=tls
 vmess://eyJ2IjoiMiIsInBzIjoidC5tZVwvZW50cnlORVQiLCJhZGQiOiIyMTguMjUyLjIwMy43NCIsInBvcnQiOiIxNTA4NiIsInR5cGUiOiJub25lIiwiaWQiOiI5ZjUxMzE2MS01NzZiLTNhYmMtOWM5OC0wNmU1MmMzYTI0YzYiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwiaG9zdCI6IjE1MDg2Lmt1YWl5aW4wMi50b3AiLCJ0bHMiOiIifQ==
 vless://bbacaac-caba-baca-cdba-bcacbbacaacb@127.0.0.1:8080?security=tls&amp;type=tcp#t.me/entryNET
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.61:443?security=tls&amp;sni=23sPT.pAGEs.dEV&amp;type=ws&amp;host=23spt.pages.dev&amp;path=Telegram-------PROXY_MTM-_-_-_-Telegram-------PROXY_MTM/?ed=2048&amp;fp=randomized&amp;alpn=http/1.1#t.me/entryNET
+vless://5b449647-be65-4b3f-ae28-8bcefe37c4c6@5.202.7.85:3232?security=none&amp;type=ws#t.me/entryNET
+vless://5178c283-6911-45af-b27e-99b021d460ad@151.101.3.8:80?security=none&amp;type=ws&amp;host=Aqakheylynamardin.net&amp;path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048#t.me/entryNET
 vless://Telegram-Ernoxin-Shop@172.64.155.249:80?type=ws&amp;path=/telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop?ed=2048&amp;host=3.V2ray.debian.org.fxp.uptvs.com.telewebion.com.speedtest.net.らわなさらわ.abolfazl.shop.&amp;security=none#@ernoxin_shop
 vless://Telegram-Ernoxin-Shop@172.64.155.249:80?type=ws&amp;path=/telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop?ed=2048&amp;host=1.V.v.V.v.V.v.V.v.V-_-_-V2ray-_-_-v.V.xn--9iqtb0z3kmg58ejur6wfbwf9muugk7rck30b0frbqkvk2bye0bm1a.abolfazl.shop.&amp;security=none#@ernoxin_shop
 vless://Telegram-Ernoxin-Shop@172.64.155.249:80?type=ws&amp;path=/telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop?ed=2048&amp;host=4.V.v.V.v.V.v.V.v.V-_-_-V2ray-_-_-v.V.v.xn--9iqtb0z3kmg58ejur6wfbwf9muugk7rck30b0frbqkvk2bye0bm1a.abolfazl.SHOP.&amp;security=none#@ernoxin_shop
@@ -970,7 +972,6 @@ vless://7fc5ab7c-57c3-4cad-ba92-a31101ea6db7@95.217.158.157:443?security=none&am
 vless://--------NORBERT-VPN--------@46.245.66.198:1232?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#NORBERT-VPN
 ss://,
 ssr://的格式
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTb0VMVktndFM3S1k0ZUZxWFpvWWUx@77.83.246.74:33320#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToya1p6UW54WjJtVkgwRFd5ZE5xZVN6@194.87.45.189:40076#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMekh3R1ROdElzeWxydkQwdHIyRkJH@81.19.141.45:52873#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWDFtcFBYNmNLcnhjRlhBM0JCS2VX@194.87.45.189:40076#
@@ -979,6 +980,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHeGtaRTBHYlc2UVpVWGhScUtKSzZB@77.83.246.74:3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCTXlyRHl5NGk0Vzg0VTBBNGVwWldo@81.19.141.45:52873#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGSjIyNUxzb1Bac3pMa01QNzgwZzJR@81.19.141.45:52873#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQcGVEWmZmTjJwSFV3aFJaaGdMb0Ji@77.83.246.74:33320#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGNkRteXZzdXZGbHl3UjNMWElUTkQ4@194.87.45.189:40076#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxc3hnd2RVRXBsbVRnOEdzT1JqR3dr@85.159.230.44:52842#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZGtpNUdhUGV3aTVBT3hRSHRUYmhS@92.118.112.101:9483#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0Ump2d0JFc3I4QzNpZmZqaWZBSGRh@51.158.252.130:443#
