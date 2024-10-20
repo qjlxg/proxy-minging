@@ -68,6 +68,7 @@ hy2://1ce3431c-4e12-432e-a336-ca20c47c2084@nl.1010520.shop:10001/?sni=NL.1010520
 hy2://1ce3431c-4e12-432e-a336-ca20c47c2084@uk.1010520.shop:10001/?sni=uk.1010520.shop#🇬🇧英茎3-下载路线-@GT666VIP
 ss://YWVzLTEyOC1nY206MWNlMzQzMWMtNGUxMi00MzJlLWEzMzYtY2EyMGM0N2MyMDg0@zx2.1010520.shop:13020#🇬🇧英茎2-下载路线-@GT666VIP
 ss://YWVzLTEyOC1nY206MWNlMzQzMWMtNGUxMi00MzJlLWEzMzYtY2EyMGM0N2MyMDg0@zf.1010520.shop:13020#🇬🇧英茎1-下载路线-@GT666VIP
+ss://YWVzLTEyOC1nY206RE1JVA@nearoute.jp.securevpn.cc:1020?plugin=obfs-local;obfs=http;obfs-host=speedtest.net;fast-open=true#🇯🇵 Nearoute
 vmess://eyJhZGQiOiJkZG5zLXR3MDIucGxub2RlLnh5eiIsImFpZCI6IjEiLCJob3N0IjoiIiwiaWQiOiI3YmI3OGQzZS1jMWNlLTQzMGQtYjBhYi1jZDg1ZmFiZDA5YzUiLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0Ijo4OTAxLCJwcyI6IlNTUlRPT0wuQ09NIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJ0d2lwdjQudXNlaXB2Nm5vdy5jb20iLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMDAzZjEyNzktYzU1ZC00MjdjLTgzMjctOWY3MWY4YjFjYzBiIiwibmV0Ijoid3MiLCJwYXRoIjoiIiwicG9ydCI6NjYxNywicHMiOiJTU1JUT09MLkNPTSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiI1LjE4Mi4zNi4xOTkiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMDAzZjEyNzktYzU1ZC00MjdjLTgzMjctOWY3MWY4YjFjYzBiIiwibmV0Ijoid3MiLCJwYXRoIjoiIiwicG9ydCI6NjYxNiwicHMiOiJTU1JUT09MLkNPTSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
