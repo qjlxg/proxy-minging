@@ -191,7 +191,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkB2ZW1lc3N2cG4iLA0KICAiYWRkIjogIjYyLjIz
 vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.2:443?encryption=none&amp;security=tls&amp;sni=cf-wkrs-pages-vless-aoy.pages.dev&amp;type=ws&amp;host=cf-wkrs-pages-vless-aoy.pages.dev&amp;path=/@vemessvpn-channel-telegram#site-drvpn . net
 vless://d60274f1-90ef-4317-b264-e02158170eae@162.159.138.178:8080/?type=httpupgrade&amp;path=/?ed=8080&amp;host=2sedkfjeuixijd0ew9d3.2sedkfjeuixijd0ew9dvkcxoisiek11.blog&amp;security=none#ELFV2RAY
 vless://d60274f1-90ef-4317-b264-e02158170eae@162.159.138.178:8080/?type=httpupgrade&amp;path=/?ed=8080&amp;host=2sedkfjeuixijd0ew9d3.2sedkfjeuixijd0ew9dvkcxoisiek11.blog&amp;security=none#ELFV2RAY
-vless://80e5b1b6-03ac-44ed-947e-d4d6c591e5d4@104.21.45.185:443?security=tls&amp;sni=pPAL03.MrS-LaneY-KuPHAL.workeRs.Dev&amp;type=ws&amp;host=PPAl03.mrs-lANey-KuPhal.WorKERS.DEv&amp;path=/DavU8ottCCYESrgH?ed=2048&amp;fp=randomized&amp;alpn=h2,http/1.1#t.me/entryNET
 vless://a335a3eb-f242-4b06-a661-1c884a50f3f5@hajlab.ucdavis.edu:443?security=tls&amp;sni=hajlab.ucdavis.edu&amp;type=ws&amp;path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec?ed=8880&amp;host=MdVpnSecJoin.ir&amp;encryption=none#t.me/entryNET
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@208.86.168.74:8443?security=tls&amp;sni=sB-1U6.PAgeS.deV&amp;type=ws&amp;path=/bdbeqy5r01xte4fl/mtu4ljewms4ymdmumti3?ed=2560#t.me/entryNET
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.147.22:2053?security=tls&amp;sni=MaHdIsErver-c8w.PaGeS.dEV&amp;type=ws&amp;host=MaHdiSERVeR-c8w.paGES.DEV&amp;path=/vyvNhfXHnkRJCGfd?ed=2560&amp;fp=randomized&amp;alpn=h2,http/1.1#t.me/entryNET
@@ -204,6 +203,8 @@ vless://b3f16bdb-302f-4131-887d-d8389442b772@104.17.147.22:80?security=none&amp;
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@208.86.168.45:2083?security=tls&amp;sni=SB-1U6.PAgeS.dEv&amp;type=ws&amp;path=/urenftuu3z1kqryb/mtu4ljewms4ymdmumti3?ed=2560#t.me/entryNET
 vless://d0f9437f-3c49-45c6-976b-ebea24158b39@45.81.58.222:2082?security=none&amp;type=httpupgrade&amp;host=finhztco.nipytee.info&amp;path=/#t.me/entryNET
 vless://8f398fcc-31bd-4080-84aa-d3b3d68384d6@104.21.79.192:80?security=none&amp;type=httpupgrade&amp;host=SsD.Www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.clubliverPool.Ir.&amp;path=/index.php/V2eX?ed=2560#t.me/entryNET
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.215:443?security=tls&amp;sni=ds.ylks.xyz&amp;type=ws&amp;path=/blue#t.me/entryNET
+vless://fca01448-d84a-436e-9aec-3be1ebdfb350@192.0.54.6:2083?security=tls&amp;sni=SB-1U6.PAgeS.dEv&amp;type=ws&amp;path=/urenftuu3z1kqryb/mtu4ljewms4ymdmumti3?ed=2560#t.me/entryNET
 vless://Telegram-Ernoxin-Shop@172.64.155.249:80?type=ws&amp;path=/telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop?ed=2048&amp;host=3.V2ray.debian.org.fxp.uptvs.com.telewebion.com.speedtest.net.らわなさらわ.abolfazl.shop.&amp;security=none#@ernoxin_shop
 vless://Telegram-Ernoxin-Shop@172.64.155.249:80?type=ws&amp;path=/telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop?ed=2048&amp;host=1.V.v.V.v.V.v.V.v.V-_-_-V2ray-_-_-v.V.xn--9iqtb0z3kmg58ejur6wfbwf9muugk7rck30b0frbqkvk2bye0bm1a.abolfazl.shop.&amp;security=none#@ernoxin_shop
 vless://Telegram-Ernoxin-Shop@172.64.155.249:80?type=ws&amp;path=/telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop?ed=2048&amp;host=4.V.v.V.v.V.v.V.v.V-_-_-V2ray-_-_-v.V.v.xn--9iqtb0z3kmg58ejur6wfbwf9muugk7rck30b0frbqkvk2bye0bm1a.abolfazl.SHOP.&amp;security=none#@ernoxin_shop
@@ -997,6 +998,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCOVA3WWV6TGpuUXVvN1hrYW5BS1B0@77.83.246.74:3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3S2g0OW9la1BKaXZTczlnYUN0QVQ0@77.83.246.74:33320#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQelhwdlZGV2c3dzBsY2xxakdJMDV5@194.87.45.189:40076#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURnU5TTBQVnRKcjdCVExCa2dZWTZn@81.19.141.45:52873#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppWndtWlNicXZBU2VVS21wY0M5Sk9X@89.185.84.185:12575#
 ss://YWVzLTI1Ni1nY206Ylhwb0R1bW1BeVdsdlJPbUF5ZF9YZw@194.87.216.92:1080#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptTHp0T0doZmZyRURQR0ZQR1B0eHl5@dyn.usa.outlinekeys.net:17889#
