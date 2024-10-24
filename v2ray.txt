@@ -64,7 +64,6 @@ trojan://414dff55-922a-4dc8-b5d3-b6517942b25a@east.eeeeeef998.buzz:15006?allowIn
 trojan://414dff55-922a-4dc8-b5d3-b6517942b25a@east.eeeeeef998.buzz:15002?allowInsecure=1&amp;sni=data.steamdownload.top#美国+2
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@135.125.172.153:443#法国
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkUFc2U0toVmZxRGV2QmZkcnQ1ZUpn@95.164.87.138:63830#美国
-ss://YWVzLTEyOC1nY206RE1JVA@nearoute.jp.securevpn.cc:1020?plugin=obfs-local;obfs=http;obfs-host=speedtest.net;fast-open=true#🇯🇵 Nearoute
 hy2://1ce3431c-4e12-432e-a336-ca20c47c2084@nl.1010520.shop:10001/?sni=NL.1010520.shop#🇳🇱 何蓝-下裁路线-@GT666VIP
 hy2://1ce3431c-4e12-432e-a336-ca20c47c2084@uk.1010520.shop:10001/?sni=uk.1010520.shop#🇬🇧英茎3-下载路线-@GT666VIP
 ss://YWVzLTEyOC1nY206MWNlMzQzMWMtNGUxMi00MzJlLWEzMzYtY2EyMGM0N2MyMDg0@zx2.1010520.shop:13020#🇬🇧英茎2-下载路线-@GT666VIP
