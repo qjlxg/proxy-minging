@@ -193,6 +193,7 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.180:443#t.me/entryNET
 trojan://3690911436885991424@5.8.35.45:443?sni=careful-platypus.opossum872.cfd&amp;allowInsecure=0#t.me/entryNET
 vless://6babb657-1524-43bb-b421-11bda27bc9de@104.24.249.106:2087?security=tls&amp;sni=smart.titimoji-f6.fun&amp;type=grpc#t.me/entryNET
 vless://6babb657-1524-43bb-b421-11bda27bc9de@104.27.116.189:2087?security=tls&amp;sni=smart.titimoji-f6.fun&amp;type=grpc#t.me/entryNET
+vless://b5d1441f-31b7-4f52-a282-7aff86794d77@172.66.44.244:443?security=tls&amp;sni=kANal-TEleGrAm-FrEev2RNg-frEeV2rNG-FREeV2RNG.pAges.deV&amp;type=ws&amp;host=kanal-telegram-freev2rng-freev2rng-freev2rng.pages.dev&amp;path=/dcHHQjyQe5dTG6gU?ed=2560&amp;fp=randomized&amp;alpn=h2,http/1.1#t.me/entryNET
 vless://Telegram-Ernoxin-Shop@172.64.155.249:80?type=ws&amp;path=/telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop?ed=2048&amp;host=3.V2ray.debian.org.fxp.uptvs.com.telewebion.com.speedtest.net.らわなさらわ.abolfazl.shop.&amp;security=none#@ernoxin_shop
 vless://Telegram-Ernoxin-Shop@172.64.155.249:80?type=ws&amp;path=/telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop?ed=2048&amp;host=1.V.v.V.v.V.v.V.v.V-_-_-V2ray-_-_-v.V.xn--9iqtb0z3kmg58ejur6wfbwf9muugk7rck30b0frbqkvk2bye0bm1a.abolfazl.shop.&amp;security=none#@ernoxin_shop
 vless://Telegram-Ernoxin-Shop@172.64.155.249:80?type=ws&amp;path=/telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop?ed=2048&amp;host=4.V.v.V.v.V.v.V.v.V-_-_-V2ray-_-_-v.V.v.xn--9iqtb0z3kmg58ejur6wfbwf9muugk7rck30b0frbqkvk2bye0bm1a.abolfazl.SHOP.&amp;security=none#@ernoxin_shop
@@ -938,7 +939,6 @@ vless://7fc5ab7c-57c3-4cad-ba92-a31101ea6db7@95.217.158.157:443?security=none&am
 vless://--------NORBERT-VPN--------@46.245.66.198:1232?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#NORBERT-VPN
 ss://,
 ssr://的格式
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0T09mYmRnV2xxa0w1RlV6Y2VoN3pH@81.19.141.45:52873#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzbU90Rlk5b2JaWnVMTW1EdEYzWVFl@77.83.246.74:33320#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VUZGb1Jvak1YYVA0QkZhR1JSN2VT@77.83.246.74:33320#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4cDUzV1F2RkNKdFdqQmoxdzlONUx5@194.87.45.189:40076#
@@ -950,6 +950,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozeXIxbmxnS3A3N1h4a0VoSElNWnNs@194.87.45.189:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPbjlKRm05UlB6WmNxWjhUWWJiQ0sx@89.185.84.185:12575#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvc2dJVlRPQWk4NnFLdGY4NzRLSGtK@81.19.141.45:52873#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyQ2FrdjdKRG9JSVVBdjZpaW9qQW1R@77.83.246.74:33320#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMNTlqNnplQnNxcXlqaGM2dVBHMnRH@77.83.246.74:33320#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaR1V6WkdVeQ@146.19.106.89:8388#
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@69.50.92.72:8091#
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@69.50.92.110:8118#
