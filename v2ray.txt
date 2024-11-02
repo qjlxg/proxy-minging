@@ -192,8 +192,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkB2ZW1lc3N2cG4iLA0KICAiYWRkIjogIjYyLjIz
 vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.2:443?encryption=none&amp;security=tls&amp;sni=cf-wkrs-pages-vless-aoy.pages.dev&amp;type=ws&amp;host=cf-wkrs-pages-vless-aoy.pages.dev&amp;path=/@vemessvpn-channel-telegram#site-drvpn . net
 vless://50cd070b-32c3-4918-8237-4a2467e72d17@162.159.194.75:8880?path=/www.speedtest.net-www.speedtest.net?ed=31246&amp;security=none&amp;encryption=none&amp;host=jghadskjask-sdyifuysiur873489279432dsf.vipvipmbl.ir.&amp;type=httpupgrade#@ELFV2RAY
 vless://f45d8fe1-d2ec-4b73-95e8-130c83a0b409@172.67.73.226:8080?path=/www.speedtest.net-www.speedtest.net?ed=31246&amp;security=none&amp;encryption=none&amp;host=jghadskjask-sdyifuysiur873489279432dsf.vipvipmbl.ir.&amp;type=httpupgrade#@ELFV2RAY
-vless://d20e8769-2d5f-4aa2-921d-c3528973d472@hajlab.ucdavis.edu:443?security=tls&amp;sni=hajlab.ucdavis.edu&amp;type=ws&amp;path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec?ed=8880&amp;host=MdVpnSecJoin.ir&amp;encryption=none#t.me/entryNET
-ss://bm9uZTpiYWJjY2FhLWFiY2EtY2FhYi1iYWNkLWFhYWNjY2JiYmJhYw==@127.0.0.1:1080#t.me/entryNET
 trojan://auto@172.64.35.192:443?security=tls&amp;type=ws&amp;sni=b96ef9ae.trojanfree-76s.pages.dev&amp;path=/b96ef9ae.trojanfree-76s.pages.dev/&amp;host=b96ef9ae.trojanfree-76s.pages.dev#t.me/entryNET
 vless://024db747-6abb-4f6c-96e6-9def52fe2b3d@104.21.16.153:443?security=tls&amp;sni=pPaL03.DORiAn-hARvey-iv.WOrKeRs.dEV&amp;type=ws&amp;host=PpAL03.Dorian-HArVey-iv.WORkers.deV&amp;path=/TELEGRAM-MARAMBASHI/?ed=2048&amp;fp=randomized&amp;alpn=h2,http/1.1#t.me/entryNET
 trojan://4045e84e-5e3c-4f70-8ff5-c1097882a55a@172.66.47.100:443?security=tls&amp;sni=bpb-wOrkeR-PANEl1-E4P.PaGeS.Dev&amp;type=ws&amp;host=bpb-worker-panel1-e4p.pages.dev&amp;path=/Telegram@V2ray_Alpha/?ed=2560&amp;fp=randomized&amp;alpn=http/1.1#t.me/entryNET
@@ -211,6 +209,8 @@ vless://aacacbb-acab-abca-dcab-abccabcaabcb@127.0.0.1:8080?security=tls&amp;type
 vless://bc976de8-8c78-4209-efaa-dbce24b9e568@104.17.234.114:443?security=tls&amp;sni=UNLIMITEDDEV1.unlimiteddev-vpn.com&amp;type=ws&amp;host=UNLIMITEDDEV1.unlimiteddev-vpn.com&amp;path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8080&amp;fp=chrome#t.me/entryNET
 trojan://bacacab-baca-baca-dacb-bacbbcaacabc@127.0.0.1:8080?security=tls&amp;type=tcp#t.me/entryNET
 trojan://cf13832b-4ca0-4fee-8e85-2b2411104e75@34.213.179.61:20230?security=tls&amp;sni=421421.xyz#t.me/entryNET
+vless://aababcc-baac-abac-bdac-babcbacbcaac@127.0.0.1:1080?security=tls&amp;type=tcp#t.me/entryNET
+vless://2eb5b712-118b-4c15-8d31-ec77a9c3b028@151.101.3.8:80?security=none&amp;type=ws&amp;host=5776.ir&amp;path=/VLESS?ed=80#t.me/entryNET
 vless://Telegram-Ernoxin-Shop@172.64.155.249:80?type=ws&amp;path=/telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop?ed=2048&amp;host=3.V2ray.debian.org.fxp.uptvs.com.telewebion.com.speedtest.net.らわなさらわ.abolfazl.shop.&amp;security=none#@ernoxin_shop
 vless://Telegram-Ernoxin-Shop@172.64.155.249:80?type=ws&amp;path=/telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop?ed=2048&amp;host=1.V.v.V.v.V.v.V.v.V-_-_-V2ray-_-_-v.V.xn--9iqtb0z3kmg58ejur6wfbwf9muugk7rck30b0frbqkvk2bye0bm1a.abolfazl.shop.&amp;security=none#@ernoxin_shop
 vless://Telegram-Ernoxin-Shop@172.64.155.249:80?type=ws&amp;path=/telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop?ed=2048&amp;host=4.V.v.V.v.V.v.V.v.V-_-_-V2ray-_-_-v.V.v.xn--9iqtb0z3kmg58ejur6wfbwf9muugk7rck30b0frbqkvk2bye0bm1a.abolfazl.SHOP.&amp;security=none#@ernoxin_shop
@@ -911,9 +911,6 @@ vless://DIGIV2RAY@www.speedtest.net:2052?path=/tm-Digiv2-__teldIGIv2__-DIGIV&amp
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=/bSy3kNZL7wmMA0OS?ed=2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=JOiNMAHdiSERVer-BG3.Pages.dEv&amp;fp=randomized&amp;type=ws&amp;sni=JOiNmahDIsErVER-Bg3.PAGes.deV#[
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#[
 trojan://oZAugtgF5T@146.190.87.238:443?path=/&amp;security=tls&amp;host=aka.ms&amp;type=ws&amp;sni=aka.ms#Free+dialog+zoom-qlgztp4g
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.124.127:22222?path=/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#Telegram
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.230.239:22222?path=/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#Telegram
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.130.49.48:22222?path=/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#Telegram
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.178.129.103:22222?path=/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#Telegram
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.51.217.181:22222?path=/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#Telegram
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@99.80.152.187:22222?path=/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#Telegram
@@ -944,11 +941,11 @@ vless://7fc5ab7c-57c3-4cad-ba92-a31101ea6db7@95.217.158.157:443?security=none&am
 vless://--------NORBERT-VPN--------@46.245.66.198:1232?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#NORBERT-VPN
 ss://,
 ssr://的格式
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6TjFjdzh4bmRKNWdkV0lMOW56d1Rw@89.185.84.185:12575#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Q3ZoTjBxZEc0dklZcDNpUXlma2Nm@81.19.141.45:52873#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0bW1CTmJXVVpYem5qQUpVMHFjcnhx@194.87.45.189:40076#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMMFFYS3dDeGF2R09zOE9mdEp2TEIy@194.87.45.189:40076#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4WGRkMUFxb20zYk5LbE1QV21Sd2Np@77.83.246.74:33320#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzQU94ektyTThUaEdIdzJaek1QTlJ6@89.185.84.185:12575#
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.152.112:7001#
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@69.50.93.100:9101#
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@142.202.48.43:5003#
