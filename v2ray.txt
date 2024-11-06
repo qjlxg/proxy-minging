@@ -144,7 +144,6 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMzUuODcuMTg1LjI0ODo0NDM=#CA,
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANDMuMjAxLjI1NC4yMTE6NDQz#JP,
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkB2ZW1lc3N2cG4iLA0KICAiYWRkIjogIjYyLjIzMy41Ny4zOCIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJjNjZkMWMwMy1lZjVlLTQ5OTQtYTdhNC1kNDE4NTU4NjdmMTMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogImh0dHAiLA0KICAiaG9zdCI6ICJpbnRlcm5ldC5saWZlLmNvbS5ieSIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==
 vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.2:443?encryption=none&amp;security=tls&amp;sni=cf-wkrs-pages-vless-aoy.pages.dev&amp;type=ws&amp;host=cf-wkrs-pages-vless-aoy.pages.dev&amp;path=/@vemessvpn-channel-telegram#site-drvpn . net
-vless://acabbac-caab-acba-cdab-acbcacacbabb@127.0.0.1:1080?security=tls&amp;type=tcp#t.me/entryNET
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@140.248.183.178:80?type=ws&amp;host=aliii.ir&amp;path=/kptMTT8pTmxLWsoJ?ed=2560#t.me/entryNET
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjRTdpYXhOMGRneXVneFRiOEVxUnFR@3.138.200.105:1093#t.me/entryNET
 vless://baaccab-aacb-acba-bdac-cbabaccbbaac@127.0.0.1:1080?security=tls&amp;type=tcp#t.me/entryNET
@@ -160,6 +159,7 @@ vless://dda673d9-a7ca-4b66-bc0a-0f67b873b196@104.17.148.22:8880?security=none&am
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.217.3.93:22222?security=tls&amp;sni=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;path=/telegram-channel-vlessconfig-ws#t.me/entryNET
 vless://7dc9b551-0a7e-4bc1-df95-0504b4ca6fff@62.60.178.195:2053?security=none&amp;type=tcp&amp;host=speedtest.net&amp;headerType=http#t.me/entryNET
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@154.64.232.43:587?security=tls&amp;sni=vless.ifx.us.kg&amp;type=ws&amp;host=vless.ifx.us.kg&amp;path=/?ed=2560fp=chrome#t.me/entryNET
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@38.79.116.51:587?security=tls&amp;sni=vless.ifx.us.kg&amp;type=ws&amp;host=vless.ifx.us.kg&amp;path=/?ed=2560fp=chrome#t.me/entryNET
 vless://Telegram-Ernoxin-Shop@172.64.155.249:80?type=ws&amp;path=/telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop?ed=2048&amp;host=3.V2ray.debian.org.fxp.uptvs.com.telewebion.com.speedtest.net.らわなさらわ.abolfazl.shop.&amp;security=none#@ernoxin_shop
 vless://Telegram-Ernoxin-Shop@172.64.155.249:80?type=ws&amp;path=/telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop?ed=2048&amp;host=1.V.v.V.v.V.v.V.v.V-_-_-V2ray-_-_-v.V.xn--9iqtb0z3kmg58ejur6wfbwf9muugk7rck30b0frbqkvk2bye0bm1a.abolfazl.shop.&amp;security=none#@ernoxin_shop
 vless://Telegram-Ernoxin-Shop@172.64.155.249:80?type=ws&amp;path=/telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop?ed=2048&amp;host=4.V.v.V.v.V.v.V.v.V-_-_-V2ray-_-_-v.V.v.xn--9iqtb0z3kmg58ejur6wfbwf9muugk7rck30b0frbqkvk2bye0bm1a.abolfazl.SHOP.&amp;security=none#@ernoxin_shop
@@ -873,6 +873,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTTlhNblZ5emhXZE1HSE5JT3ZCVW41@194.87.45.189:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNm1DZ21MSkFqVzR3VWp2d3JXOEw3@77.83.246.74:33320#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGUzVwa2xwSFNiRk94NGo2QkRjalVC@89.185.84.185:12575#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVUktCMWY0Mk1PemxvN0xZaUx0aGJv@77.83.246.74:33320#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqQ0tmR1hIcWtsZHpTR0swYjRtRTgx@81.19.141.45:52873#
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.136.33:2375#
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@54.36.174.181:2375#
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@69.50.93.10:7307#
@@ -1102,8 +1103,6 @@ vless://cf63d33e-451a-4ce3-ad24-018604a095a5@49.13.48.162:51201?security=none&am
 vless://cf63d33e-451a-4ce3-ad24-018604a095a5@62.60.172.104:51201?security=none&amp;headerType=http&amp;type=tcp&amp;host=varzesh3.com,telewebion.com#T+M+FAST+NET
 vless://e8213d4c-a3e2-46b1-a041-9bc78c7b8442@62.60.172.104:43973?security=none&amp;headerType=http&amp;type=tcp&amp;host=varzesh3.com,telewebion.com#8164961-@TmNetBot
 vmess://eyJhZGQiOiJqcHpuLnN0dGNsb3VkLnh5eiIsImFpZCI6IjIiLCJob3N0IjoiIiwiaWQiOiI5YjBiMzljYS1iNTk0LTNiN2YtOTAyZC1kMTM0NGViZjAyZTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0MDAwMyIsInBzIjoiUmVsYXlf8J+HqPCfh7NDTi3wn4ev8J+HtUpQXzkyNyB8IDUuMDFNYiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://tel--ZEDMODEON@live.skornorth.com:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=okala.com&amp;path=/@ZEDMODEON-ZEDMODEON@ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048&amp;sni=live.skornorth.com&amp;fp=chrome#All
-vless://Joinin--ZEDMODEON@connectcarolina.sites.unc.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=snapptrip.com&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed=2048&amp;sni=connectcarolina.sites.unc.edu&amp;fp=chrome#All
 vless://Joinin--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=snapp.express&amp;path=/@ZEDMODEON-ZEDMODEON@ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed=2052&amp;sni=zmaoz.faculty.ucdavis.edu&amp;fp=chrome#All
 vless://Joinin--ZEDMODEON@ergwork.web.unc.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=snapp.taxi&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed=2048&amp;sni=ergwork.web.unc.edu&amp;fp=chrome#All
 vless://tell--ZEDMODEON@live.skornorth.com:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=okala.com&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048&amp;sni=live.skornorth.com&amp;fp=chrome#All
