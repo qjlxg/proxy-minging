@@ -37,7 +37,6 @@ vless://12471e51-fcd4-421c-a71f-2ef755c34fec@[2a01:4f9:c010:1ac8::1]:8443?path=/
 vless://a1591bed-6c12-41cf-93c8-9bcb787ffd16@[2a01:4f9:c010:1ac8::1]:13269?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@internet_nor
 vless://2d93c869-368a-4b8b-b29d-2b10494e627e@holand.activevps.monster:10015?type=tcp&amp;path=/&amp;security=none&amp;host=divarcdn.com&amp;headerType=http#Gift-9131
 vless://a4caa9c4-99c0-4e00-ae8d-7bd88aa0e0fd@german2.activevps2.in:22015?type=tcp&amp;path=/&amp;security=none&amp;host=divarcdn.com&amp;headerType=http#Gift-9599
-vless://36a7f3d3-4608-4f35-97cf-99b9f17c6e44@79.127.70.120:2083?security=none&amp;encryption=none&amp;host=doostihaa.com&amp;headerType=http&amp;type=tcp#@argotaz
 vless://250f6225-c4b1-41f4-90e7-e90aab898ceb@Live.skornorth.com:443?path=ws/?ed=2048&amp;security=tls&amp;encryption=none&amp;host=s4brgbetbngbgf.com&amp;type=ws&amp;sni=Live.skornorth.com#@argotaz+همراه+اول
 vless://36a7f3d3-4608-4f35-97cf-99b9f17c6e44@79.127.70.120:2083?security=none&amp;encryption=none&amp;host=doostihaa.com&amp;headerType=http&amp;type=tcp#@ARGOTAZ+ایرانسل
 vless://4774e962-0df1-4745-bb97-d625b4f4233f@79.127.70.76:8585?security=none&amp;encryption=none&amp;host=doostihaa.com&amp;headerType=http&amp;type=tcp#new_@argotaz
@@ -143,10 +142,6 @@ vmess://eyJhZGQiOiJ1cy1uZXcwMy5kYWx1cXVhbi50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZw
 hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@au.1010520.shop:10001/?sni=AU.1010520.shop#澳大利亚-下载
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkB2ZW1lc3N2cG4iLA0KICAiYWRkIjogIjYyLjIzMy41Ny4zOCIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJjNjZkMWMwMy1lZjVlLTQ5OTQtYTdhNC1kNDE4NTU4NjdmMTMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogImh0dHAiLA0KICAiaG9zdCI6ICJpbnRlcm5ldC5saWZlLmNvbS5ieSIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==
 vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.2:443?encryption=none&amp;security=tls&amp;sni=cf-wkrs-pages-vless-aoy.pages.dev&amp;type=ws&amp;host=cf-wkrs-pages-vless-aoy.pages.dev&amp;path=/@vemessvpn-channel-telegram#site-drvpn . net
-trojan://cacaabb-aabc-acba-dbac-acaaccbcbabb@127.0.0.1:1080?security=tls&amp;type=tcp#t.me/entryNET
-trojan://telegram-id-directvpn@18.171.132.240:22222?allowInsecure=0&amp;sni=trojan.burgerip.co.uk#t.me/entryNET
-vless://50d9b7df-9663-491c-8865-121c86689528@hajlab.ucdavis.edu:443?security=tls&amp;sni=hajlab.ucdavis.edu&amp;type=ws&amp;path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec?ed=8880&amp;host=MdVpnSecJoin.ir&amp;encryption=none#t.me/entryNET
-trojan://bbaaacc-aabc-baca-dabc-acbbbcabaacc@127.0.0.1:1080?security=tls&amp;type=tcp#t.me/entryNET
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.156.144.160:22222?security=tls&amp;sni=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;path=/telegram-channel-vlessconfig-ws#t.me/entryNET
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI@205.134.180.150:443#t.me/entryNET
 trojan://telegram-id-privatevpns@34.243.140.245:22222?allowInsecure=0&amp;sni=trojan.burgerip.co.uk#t.me/entryNET
@@ -159,6 +154,9 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.247.96:443?security=tls&amp;
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@108.162.198.131:443?security=tls&amp;sni=ll.kpcloud.eu.org&amp;type=ws&amp;host=ll.kpcloud.eu.org&amp;path=/?ed=2048#t.me/entryNET
 vless://e952bb43-f7c9-4531-a2a2-6482d2f35d10@151.101.66.228:443?security=tls&amp;sni=time.com&amp;type=ws&amp;host=onlineshoppardis.com&amp;path=/@vistav2ray---@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray?ed=2048&amp;fp=chrome&amp;alpn=h2,http/1.1#t.me/entryNET
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.204:8118#t.me/entryNET
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.216.16:443?security=tls&amp;sni=ll.kpcloud.eu.org&amp;type=ws&amp;host=ll.kpcloud.eu.org&amp;path=/?ed=2048#t.me/entryNET
+vless://e952bb43-f7c9-4531-a2a2-6482d2f35d10@151.101.2.133:443?security=tls&amp;sni=time.com&amp;type=ws&amp;host=onlineshoppardis.com&amp;path=/@vistav2ray---@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray?ed=2048&amp;fp=chrome&amp;alpn=h2,http/1.1#t.me/entryNET
+vmess://eyJ2IjoiMiIsInBzIjoidC5tZVwvZW50cnlORVQiLCJhZGQiOiJtYWxheXNpYS5jb20iLCJwb3J0IjoiMjA4MiIsInR5cGUiOiJub25lIiwiaWQiOiI1ZjNmMDlhZC04OWNiLTRlOTQtYTdhZC1hYTgyMzk5MTM1NTUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiZ2l0aHViLmNvbVwvQWx2aW45OTk5IiwiaG9zdCI6ImlwMjYuNjkyOTE5OC54eXoiLCJ0bHMiOiIifQ==
 vless://Telegram-Ernoxin-Shop@172.64.155.249:80?type=ws&amp;path=/telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop?ed=2048&amp;host=3.V2ray.debian.org.fxp.uptvs.com.telewebion.com.speedtest.net.らわなさらわ.abolfazl.shop.&amp;security=none#@ernoxin_shop
 vless://Telegram-Ernoxin-Shop@172.64.155.249:80?type=ws&amp;path=/telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop?ed=2048&amp;host=1.V.v.V.v.V.v.V.v.V-_-_-V2ray-_-_-v.V.xn--9iqtb0z3kmg58ejur6wfbwf9muugk7rck30b0frbqkvk2bye0bm1a.abolfazl.shop.&amp;security=none#@ernoxin_shop
 vless://Telegram-Ernoxin-Shop@172.64.155.249:80?type=ws&amp;path=/telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop,telegram-ErnoxinShop?ed=2048&amp;host=4.V.v.V.v.V.v.V.v.V-_-_-V2ray-_-_-v.V.v.xn--9iqtb0z3kmg58ejur6wfbwf9muugk7rck30b0frbqkvk2bye0bm1a.abolfazl.SHOP.&amp;security=none#@ernoxin_shop
@@ -635,7 +633,6 @@ vless://51d7b2b5-ec43-4410-b784-9f55cb0a61e4@check-host.net:8443?mode=gun&amp;se
 vless://51d7b2b5-ec43-4410-b784-9f55cb0a61e4@check-host.net:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&amp;sni=joinnett85.servernet.cfd#@KabirVPN
 vless://51d7b2b5-ec43-4410-b784-9f55cb0a61e4@check-host.net:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&amp;sni=joinnett85.servernet.cfd#@KabirVPN
 vless://51d7b2b5-ec43-4410-b784-9f55cb0a61e4@check-host.net:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&amp;sni=joinnett85.servernet.cfd#@KabirVPN
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.65:8080#
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.75.136.21:7307#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXYTQzNFJudE5uYWRxMThpN2hEZU5C@81.19.141.45:52873#
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@139.64.164.15:3389#
@@ -654,6 +651,7 @@ ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.65:443#
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@69.50.93.113:9101#
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.49.119:5000#
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.93.47:5000#
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@142.202.49.119:7002#
 vmess://eyJhZGQiOiIxNDIuMTMyLjE2My4yMDAiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiN2Y5NjVlM2UtYjAzZi00NTVlLWE5NmUtMDFiNjFmNzI1MzdhIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9ncmFwaHFsIiwicG9ydCI6IjgwIiwicHMiOiJcdWQ4M2NcdWRmMTAgSU5ULXZtZXNzLU1pcnJvclByb3h5Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIxODUuOTQuOTYuMTIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiJlelpib1g1Ri5kaXZhcmNkbi5jb20iLCJpZCI6IjM1MDIyZjNjLWRkMzMtNDBlOC1jODBlLTkzNmZiM2EwOTc2OSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTc2IiwicHMiOiJpY2Vzb3VyY2UiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiI5MS4xMDcuMTM3LjEzNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6IiIsImlkIjoiNmI3Y2JjNDEtZmI4MC00MWE4LThlYjYtYjViZGIwZTg2MTQ3IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiJpY2Vzb3VyY2UiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
@@ -859,6 +857,7 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.26:5001#
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@69.50.95.179:3389#
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@142.202.49.119:8090#
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@69.50.93.47:2375#
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@142.202.49.119:6379#
 vless://telegram-id-PcV2ray@www.speedtest.net:8080?type=ws&amp;path=/telegram-PcV2ry,telegram-PcV2ry,telegram-PcV2ry,telegram-PcV2ry,telegram-PcV2ry,telegram-PcV2ry,telegram-PcV2ry,telegram-PcV2ry?ed=8080&amp;host=www.speedtest.net.H.1.mehpow.ir&amp;security=none#WS1-Irancell|PcV2ray
 vless://telegram-id-PcV2ray@speedtest.net:443?security=tls&amp;sni=speedtest.net&amp;type=ws&amp;path=/telegram-PcV2ray,telegram-PcV2ray,telegram-PcV2ray,telegram-PcV2ray,telegram-PcV2ray,telegram-PcV2ray,telegram-PcV2ray,telegram-PcV2ray?ed=2048&amp;host=hwdrt12.ir&amp;encryption=none#TLS-WS1-ALL|PcV2ray
 vless://telegram-id-PcV2ray@speedtest.net:443?path=/telegram-PcV2ray,telegram-PcV2ray,telegram-PcV2ray,telegram-PcV2ray,telegram-PcV2ray,telegram-PcV2ray,telegram-PcV2ray,telegram-PcV2ray?ed=2048&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http/1.1&amp;host=ie7gbis.ir&amp;fp=chrome&amp;type=ws&amp;sni=speedtest.net#TLS-WS2-ALL|PcV2ray
@@ -1076,6 +1075,9 @@ vless://cf63d33e-451a-4ce3-ad24-018604a095a5@49.13.48.162:51201?security=none&am
 vless://cf63d33e-451a-4ce3-ad24-018604a095a5@62.60.172.104:51201?security=none&amp;headerType=http&amp;type=tcp&amp;host=varzesh3.com,telewebion.com#T+M+FAST+NET
 vless://e8213d4c-a3e2-46b1-a041-9bc78c7b8442@62.60.172.104:43973?security=none&amp;headerType=http&amp;type=tcp&amp;host=varzesh3.com,telewebion.com#8164961-@TmNetBot
 vmess://eyJhZGQiOiJqcHpuLnN0dGNsb3VkLnh5eiIsImFpZCI6IjIiLCJob3N0IjoiIiwiaWQiOiI5YjBiMzljYS1iNTk0LTNiN2YtOTAyZC1kMTM0NGViZjAyZTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0MDAwMyIsInBzIjoiUmVsYXlf8J+HqPCfh7NDTi3wn4ev8J+HtUpQXzkyNyB8IDUuMDFNYiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://Joinin--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=snapp.express&amp;path=/@ZEDMODEON-ZEDMODEON@ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed=2052&amp;sni=zmaoz.faculty.ucdavis.edu&amp;fp=chrome#All
+vless://Joinin--ZEDMODEON@ergwork.web.unc.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=snapp.taxi&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed=2048&amp;sni=ergwork.web.unc.edu&amp;fp=chrome#All
+vless://tell--ZEDMODEON@live.skornorth.com:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=okala.com&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048&amp;sni=live.skornorth.com&amp;fp=chrome#All
 vless://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=snappshop.ir&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed=2048&amp;sni=zmaoz.faculty.ucdavis.edu&amp;fp=chrome#All
 vless://Join--ZEDMODEON@connectcarolina.sites.unc.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=snapptrip.com&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed=2048&amp;sni=connectcarolina.sites.unc.edu&amp;fp=chrome#All
 vless://Join--ZEDMODEON@connectcarolina.sites.unc.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=snapptrip.com&amp;path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed=2048&amp;sni=connectcarolina.sites.unc.edu&amp;fp=chrome#All
