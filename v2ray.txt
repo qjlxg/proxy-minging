@@ -1,4 +1,3 @@
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJtYWluIiwKICAiYWRkIjogImNsb3VkY29uZTEueGwxMzE0LnRvcCIsCiAgInBvcnQiOiAxNTY4NSwKICAiaWQiOiAiZWJiZWIxNTItOTFlYy00M2ExLTk5MDUtYmQ1Mjk0ZDdiMjIwIiwKICAiYWlkIjogMCwKICAibmV0IjogIndzIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICJ4bDEzMTQudG9wIiwKICAicGF0aCI6ICIvbWFpbiIsCiAgInRscyI6ICJ0bHMiCn0=
 vless://1a32d79f-001f-4466-9615-2d2eaa9eb434@dist.pirped.com:20304?security=reality&amp;sni=www.ratp.fr&amp;fp=chrome&amp;pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;encryption=none#bussy
 vless://9681032c-12e7-40fb-9107-16406203250c@164.92.82.207:59843?security=reality&amp;sni=yahoo.com&amp;fp=chrome&amp;pbk=7CcN-0C4vUwQ_rJAY38IPcfpoIW2gvBRCVxt4dUAIQg&amp;sid=03f5&amp;spx=/&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;encryption=none#Regolith vless-vpn
 vless://a1070920-8841-4c6f-dd8e-fcd969d2053e@res.pro-brain.com:40051?security=reality&amp;sni=www.ratp.fr&amp;fp=chrome&amp;pbk=9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;encryption=none#ovh
@@ -30,6 +29,9 @@ trojan://LIbzbZ4ADF@38.59.245.40:34844?allowInsecure=1#vltys3用12月19日到期
 trojan://UO2beikcWh@38.59.245.38:33261?allowInsecure=1#liuying美国8月8日到期
 vless://266ff4fc-2701-44d5-8a37-56f06729f168@70.34.248.131:38998?encryption=none&amp;security=none&amp;type=ws&amp;path=/gql#Dana
 trojan://cloo3MYJKU@45.92.39.236:46798?allowInsecure=1#美国独享/8.11
+vless://f9782517-85c8-4546-a9e6-4a80acbeb64b@ero.omobabaagbotech.com.ng:443?path=/vless&amp;security=tls&amp;encryption=none&amp;type=ws#com
+vless://f9782517-85c8-4546-a9e6-4a80acbeb64b@ero.omobabaagbotech.com.ng:80?path=/vless&amp;encryption=none&amp;type=ws#com
+vless://74f222c0-4f74-4a8e-bb8b-86c001356e04@mzent2024.my.id:443?type=ws&amp;encryption=none&amp;security=tls&amp;host=mzent2024.my.id&amp;path=/vless&amp;allowInsecure=1&amp;sni=mzent2024.my.id#XRAY_VLESS_TLS_MZSGVlessWS
 vmess://eyJ2IjoiMiIsInBzIjoi6aaZ5rivPXRn6aKR6YGTOkBicGp6eDI9MSIsImFkZCI6Im1mMzNmeC5taWNsb3VkLmJ1enoiLCJwb3J0Ijo0NjAzMywiaWQiOiJiYzIzMDM0NC0xNGQ5LTQ5MjItOWZiNy0yZTY1MTNjNTU5M2UiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJtZjMzZngubWljbG91ZC5idXp6IiwicGF0aCI6Ii96aC1jbiIsInRscyI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoi6aaZ5rivPXRn6aKR6YGTOkBicGp6eDI9MiIsImFkZCI6Im1mMDFmeC5taWNsb3VkLmJ1enoiLCJwb3J0Ijo0NjAwMSwiaWQiOiJiYzIzMDM0NC0xNGQ5LTQ5MjItOWZiNy0yZTY1MTNjNTU5M2UiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJtZjAxZngubWljbG91ZC5idXp6IiwicGF0aCI6Ii96aC1jbiIsInRscyI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoi6aaZ5rivPXRn6aKR6YGTOkBicGp6eDI9MyIsImFkZCI6IjE4My4yNDkuMjAuMTUzIiwicG9ydCI6NjQwMTAsImlkIjoiZTQzMzgzM2YtNzdlMy0zMmQ2LTk2MTMtMzIzMjBmNTMwZTVlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidGxzIjoiIn0=
@@ -317,6 +319,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNETuW+t+WbvSIsDQogICJhZGQiOiAiY2RuLmNu
 trojan://9ff83a73-c9da-4233-a9e2-7fa9b83b5f75@s.1fengxin.xyz:16212/?type=tcp&amp;security=tls&amp;sni=data.steamdownload.top&amp;allowInsecure=1&amp;fp=chrome#SE Oracle 03
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MDA0NDQ3My1iZTM4LTQyZDYtYTNkOS1jODFhMDAzMDNmM2M@
 vmess://eyJhZGQiOiJjZG4uY2xvdWRmbGFyZS5zdSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZmluLmZyZWUucnR4LmFsIiwiaWQiOiI3ODc2MTczOS00ZDI2LTRhNDktYjZmOS04MTA3ZjZlMTgzZDIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2xvdWRmbGFyZWlzdGhlYmVzdCIsInBvcnQiOiI4MCIsInBzIjoi8J+Hq/Cfh65GSU4gRlJFRSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+trojan://iM6JnhWs8l@cf-touch.rtx.al:443?security=tls&amp;sni=t1.rtx.al&amp;fp=edge&amp;type=ws&amp;path=/cfiib&amp;host=t1.rtx.al#USA 03 FREE
 vmess://eyJzbmkiOiIiLCJob3N0IjoiIiwicHMiOiJwcm94eSIsInNjeSI6ImF1dG8iLCJhZGQiOiIxOTguMi4yMDguMTc5IiwibmV0IjoidGNwIiwidiI6MiwidGxzIjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJwYXRoIjoiIiwicG9ydCI6MzU0MDIsInR5cGUiOiIiLCJhaWQiOjY0fQ
 vmess://eyJzbmkiOiIiLCJob3N0IjoiIiwicHMiOiJwcm94eSIsInNjeSI6ImF1dG8iLCJhZGQiOiIxNTYuMjI1LjY3LjEwMiIsIm5ldCI6InRjcCIsInYiOjIsInRscyI6IiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwicGF0aCI6IiIsInBvcnQiOjQ0MzMxLCJ0eXBlIjoiIiwiYWlkIjo2NH0
 vmess://eyJzbmkiOiIiLCJob3N0IjoiIiwicHMiOiJwcm94eSIsInNjeSI6ImF1dG8iLCJhZGQiOiIxNDIuNC45OS42OCIsIm5ldCI6InRjcCIsInYiOjIsInRscyI6IiIsImlkIjoiYjY1ZGE0YWYtYTEyYS00YTU5LTkzMTYtNDU0OWUxMmJhNjJjIiwicGF0aCI6IiIsInBvcnQiOjQxMTY5LCJ0eXBlIjoiIiwiYWlkIjo2NH0
