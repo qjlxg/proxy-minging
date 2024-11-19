@@ -261,8 +261,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWFs+azqOeUteaKpWh0dHBzOi8vdC5tZS9tZnRp
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWFs+azqOmikemBk2h0dHBzOi8vdC5tZS9tZnRpemkiLA0KICAiYWRkIjogIjE4My4yMzYuNTEuMjMiLA0KICAicG9ydCI6ICI1MjExMiIsDQogICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLA0KICAiYWlkIjogIjY0IiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9
 trojan://26e159d2-ec3a-4005-97c7-eb480bab096d@aafrtpfxr.hkl01i9zjfegelp.5xfsur8v62.gosdk.xyz:27101?security=tls&amp;sni=q08m.vgraxiw73s.hasyaf.cn&amp;type=tcp&amp;headerType=none#长期更新节点@mftizi
 trojan://7c58bf11-9175-46d1-accf-e1883bf0d5f8@svip.88de.hongxingdl.vip:28721?security=tls&amp;sni=mmbiz1.redapricotcloud.com&amp;type=tcp&amp;headerType=none#不定期抽奖https://t.me/mftizi
-hysteria2://sharecentrepro@us.sharecentrepro.link:4433?peer=us.sharecentrepro.link&amp;obfs=none&amp;downmbps=1000#SCP2
-hy2://sharecentrepro@us.sharecentrepro.link:4433?insecure=1&amp;sni=
 vless://89b90001-4206-4871-a99d-1744d48f215b@103.17.99.37:19280?mode=multi&amp;security=reality&amp;encryption=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;pbk=F5_aTQFA2QRCig3L-qT0Qth76JdewSHK5MgEt_p8Dlo&amp;sid=a8bd783f&amp;sni=cdn-dynmedia-1.microsoft.com&amp;servername=cdn-dynmedia-1.microsoft.com&amp;spx=/&amp;fp=qq#HK
 ss://YWVzLTI1Ni1nY206ODkyNGJjYjItNjY2Yi00ZjQ5LTliZmUtZjg5NmNiMDI3MGEw@a019.standard-nodes-chickenfarms.com:50000#Amazon USA _<
 ss://cmM0LW1kNTpRUmREMkNM@36.137.180.24:20056?plugin=obfs-local;obfs=tls;obfs-host=cb6e9171.intl.taobao.com#xTom USA _<
@@ -330,13 +328,6 @@ vmess://eyJhZGQiOiJjbS5tai1jbi5jeW91IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjFkZGMz
 vmess://eyJhZGQiOiJjdS5tai1jbi5jeW91IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjFkZGMzNTFmLTRlYTItNGRiZS05MWQ0LTY2NDU0NjI5NDU1YiIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiIxNjYzMyIsInBzIjoi6aaZ5rivLeS8mOWMliIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiJjdC5tai1jbi5jeW91IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjFkZGMzNTFmLTRlYTItNGRiZS05MWQ0LTY2NDU0NjI5NDU1YiIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiIxNjYxNyIsInBzIjoi5pel5pysLeS8mOWMljMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJjbS5tai1jbi5jeW91IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjFkZGMzNTFmLTRlYTItNGRiZS05MWQ0LTY2NDU0NjI5NDU1YiIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiIyNjYyMiIsInBzIjoi6aaZ5riv546v55S1Lemap+mBkzIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHl…
-vless://2524d390-7952-46be-a947-80d266e0db82@156.229.163.98:22222?security=reality&amp;flow=xtls-rprx-vision&amp;fp=chrome&amp;pbk=DNkp0NfAJ2pE0yWH3lrYmZhYrm4_IwVHN3dHSlVL_Wk&amp;sni=www.learn.microsoft.com&amp;spx=/&amp;sid=09b7#VLESS-XTLS-uTLS-REALITY
-hysteria2://a741df90@156.229.163.98:22222/?insecure=1&amp;sni=www.bing.com#Misaka-Hysteria2
-ss://YWVzLTI1Ni1nY206NDVjYTRlZGYtNjFkNy00ODg4LTg1YTEtNGMxMjVkMGUyN2E0QHNoYW5naGFpLnNmcmFlLm5ldDoxMjkxNg#IEPL专线|🇭🇰香港5-华东入口
-ss://YWVzLTI1Ni1nY206NDVjYTRlZGYtNjFkNy00ODg4LTg1YTEtNGMxMjVkMGUyN2E0QGN1cmNveW4uc2ZyYWUubmV0OjQ0MjQ0#IEPL专线|🇭🇰香港11
-ss://YWVzLTI1Ni1nY206NDVjYTRlZGYtNjFkNy00ODg4LTg1YTEtNGMxMjVkMGUyN2E0QGN1cmNveW4uc2ZyYWUubmV0OjQ0MjAy#IEPL专线|🇯🇵日本东京2
-ss://YWVzLTI1Ni1nY206NDVjYTRlZGYtNjFkNy00ODg4LTg1YTEtNGMxMjVkMGUyN2E0QGN1cmNveW4uc2ZyYWUubmV0OjQ0MjA3#IEPL专线|🇸🇬新加坡1
-ss://YWVzLTI1Ni1nY206NDVjYTRlZGYtNjFkNy00ODg4LTg1YTEtNGMxMjVkMGUyN2E0QGN1cmNveW4uc2ZyYWUubmV0OjM0MjIx#IEPL专线|🇺🇸美国圣何塞9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNzRlODFiMC1kOTQxLTQyMTgtODMzNi0wNzU5ZWVmZjQ1NGVAMTgzLjI0MC4yNTUuNzU6MTEwMDE#高速-香港-A
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNzRlODFiMC1kOTQxLTQyMTgtODMzNi0wNzU5ZWVmZjQ1NGVAMTgzLjIzMi4yMjkuMTY0OjExMDAx#高速-香港-B
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNzRlODFiMC1kOTQxLTQyMTgtODMzNi0wNzU5ZWVmZjQ1NGVAMTgzLjIzMi4yMjkuMTY1OjExMDAx#高速-香港-C
