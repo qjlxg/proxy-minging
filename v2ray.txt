@@ -261,6 +261,7 @@ vless://0c22352b-8565-409b-b926-1b0b6349b08d@cloudflare-cdn.naixi.net:443/?type=
 trojan://b80Iy90Fma@cloudflare-cdn.naixi.net:443/?type=ws&amp;host=usa03.rtx.al&amp;path=/cfyyds&amp;security=tls&amp;sni=usa03.rtx.al&amp;fp=random#USA 03 FREE 10t traffic
 trojan://UipJV58NIw@cf-touch.rtx.al:443?security=tls&amp;sni=t2.rtx.al&amp;fp=360&amp;type=ws&amp;path=/cfiiib&amp;host=t2.rtx.al#SGP 03 FREE
 vless://0c22352b-8565-409b-b926-1b0b6349b08d@cf-touch.rtx.al:443?security=tls&amp;sni=usf4.rtx.al&amp;fp=360&amp;type=ws&amp;path=/cfiiib&amp;host=usf4.rtx.al&amp;encryption=none#USA 04 FREE
+hysteria2://ThisIsNotForSale-Free&#036;ervice@api.tg8lnk.tech:443#Singapore 1
 vmess://eyJzbmkiOiIiLCJob3N0IjoiIiwicHMiOiJwcm94eSIsInNjeSI6ImF1dG8iLCJhZGQiOiIxOTguMi4yMDguMTc5IiwibmV0IjoidGNwIiwidiI6MiwidGxzIjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJwYXRoIjoiIiwicG9ydCI6MzU0MDIsInR5cGUiOiIiLCJhaWQiOjY0fQ
 vmess://eyJzbmkiOiIiLCJob3N0IjoiIiwicHMiOiJwcm94eSIsInNjeSI6ImF1dG8iLCJhZGQiOiIxNTYuMjI1LjY3LjEwMiIsIm5ldCI6InRjcCIsInYiOjIsInRscyI6IiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwicGF0aCI6IiIsInBvcnQiOjQ0MzMxLCJ0eXBlIjoiIiwiYWlkIjo2NH0
 vmess://eyJzbmkiOiIiLCJob3N0IjoiIiwicHMiOiJwcm94eSIsInNjeSI6ImF1dG8iLCJhZGQiOiIxNDIuNC45OS42OCIsIm5ldCI6InRjcCIsInYiOjIsInRscyI6IiIsImlkIjoiYjY1ZGE0YWYtYTEyYS00YTU5LTkzMTYtNDU0OWUxMmJhNjJjIiwicGF0aCI6IiIsInBvcnQiOjQxMTY5LCJ0eXBlIjoiIiwiYWlkIjo2NH0
