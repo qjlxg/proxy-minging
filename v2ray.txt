@@ -80,10 +80,6 @@ trojan://414dff55-922a-4dc8-b5d3-b6517942b25a@east.eeeeeef998.buzz:15006?allowIn
 trojan://414dff55-922a-4dc8-b5d3-b6517942b25a@east.eeeeeef998.buzz:15002?allowInsecure=1&amp;sni=data.steamdownload.top#美国+2
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@135.125.172.153:443#法国
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkUFc2U0toVmZxRGV2QmZkcnQ1ZUpn@95.164.87.138:63830#美国
-ss://YWVzLTEyOC1nY206aGFNTE1YaXJCeW42ckdWaA@ix3udf69.epicgames.ink:13137?plugin=obfs-local;obfs=http;obfs-host=c74d6a60f867.microsoft.com#🇲🇲 缅甸丨10x MM
-vmess://eyJhZGQiOiJpcC5zYiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiMDAub3JhbmdlbGlnaHR5by51cy5rZyIsImlkIjoiOWZjNzdlNWMtNzYyMS00MDNkLThiZDItOTU5ZWFhMTE2N2U4IiwibmV0Ijoid3MiLCJwYXRoIjoiL3NlcnYwMD9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiNDQzIiwicHMiOiLms6LlhbAiLCJzY3kiOiJub25lIiwic25pIjoiMDAub3JhbmdlbGlnaHR5by51cy5rZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.164:8080#立陶宛_120809007
-hy2://dongtaiwang.com@46.17.41.189:50717/?insecure=1&amp;sni=www.bing.com#🇷🇺 RU-Hysteria2 | 0-0
 ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@pr1.jymzffbquawl.com:3604?plugin=obfs-local;obfs=http;obfs-host=78fe8292462.microsoft.com#🇭🇰 Premium|广港|IEPL|05
 vmess://eyJhZGQiOiJkZG5zLXR3MDIucGxub2RlLnh5eiIsImFpZCI6IjEiLCJob3N0IjoiIiwiaWQiOiI3YmI3OGQzZS1jMWNlLTQzMGQtYjBhYi1jZDg1ZmFiZDA5YzUiLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0Ijo4OTAxLCJwcyI6IlNTUlRPT0wuQ09NIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJ0d2lwdjQudXNlaXB2Nm5vdy5jb20iLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMDAzZjEyNzktYzU1ZC00MjdjLTgzMjctOWY3MWY4YjFjYzBiIiwibmV0Ijoid3MiLCJwYXRoIjoiIiwicG9ydCI6NjYxNywicHMiOiJTU1JUT09MLkNPTSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
