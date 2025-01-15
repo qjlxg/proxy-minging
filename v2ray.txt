@@ -239,6 +239,7 @@ trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443?security=t
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@hk03.trojanyyds.xyz:443?security=tls&amp;sni=hk03.trojanyyds.xyz&amp;type=tcp&amp;headerType=none#关注频道https://t.me/mftizi
 hysteria2://a6fd721b-c544-4da2-a20f-c384bfdf1842@119.236.19.51:20448/?sni=xireiki.com#Miao(HK) HKT
 vless://YXV0bzo0NmY1YzFhNy05Yzc1LTRiNDctYzEwNS1jNTg4MzFhNTUwYTdAMzEuNTkuMTExLjQ5OjMzNzE4?remarks=SCP|FREE&amp;obfs=none&amp;tls=1&amp;peer=icloud.cdn-apple.com&amp;xtls=2&amp;pbk=g1f1wLjim5gOVGnI5LGUV0dL4iFXPoiepOPZfSxJe14
+hy2://e20abb22a245edb0@fast.yxmm.xyz:8443/?insecure=1&amp;sni=TG频道@zqnb122100#香港🇭🇰 HY2
 vmess://eyJzbmkiOiIiLCJob3N0IjoiIiwicHMiOiJwcm94eSIsInNjeSI6ImF1dG8iLCJhZGQiOiIxOTguMi4yMDguMTc5IiwibmV0IjoidGNwIiwidiI6MiwidGxzIjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJwYXRoIjoiIiwicG9ydCI6MzU0MDIsInR5cGUiOiIiLCJhaWQiOjY0fQ
 vmess://eyJzbmkiOiIiLCJob3N0IjoiIiwicHMiOiJwcm94eSIsInNjeSI6ImF1dG8iLCJhZGQiOiIxNTYuMjI1LjY3LjEwMiIsIm5ldCI6InRjcCIsInYiOjIsInRscyI6IiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwicGF0aCI6IiIsInBvcnQiOjQ0MzMxLCJ0eXBlIjoiIiwiYWlkIjo2NH0
 vmess://eyJzbmkiOiIiLCJob3N0IjoiIiwicHMiOiJwcm94eSIsInNjeSI6ImF1dG8iLCJhZGQiOiIxNDIuNC45OS42OCIsIm5ldCI6InRjcCIsInYiOjIsInRscyI6IiIsImlkIjoiYjY1ZGE0YWYtYTEyYS00YTU5LTkzMTYtNDU0OWUxMmJhNjJjIiwicGF0aCI6IiIsInBvcnQiOjQxMTY5LCJ0eXBlIjoiIiwiYWlkIjo2NH0
