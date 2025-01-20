@@ -80,7 +80,6 @@ trojan://414dff55-922a-4dc8-b5d3-b6517942b25a@east.eeeeeef998.buzz:15006?allowIn
 trojan://414dff55-922a-4dc8-b5d3-b6517942b25a@east.eeeeeef998.buzz:15002?allowInsecure=1&amp;sni=data.steamdownload.top#美国+2
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@135.125.172.153:443#法国
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkUFc2U0toVmZxRGV2QmZkcnQ1ZUpn@95.164.87.138:63830#美国
-hy2://e20abb22a245edb0@fast.yxmm.xyz:8443/?insecure=1&amp;sni=TG频道@zqnb122100#香港🇭🇰 HY2
 vless://e306cd50-37df-42d1-bcbf-8043437b7f9a@46.8.231.117:15717/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=swdist.apple.com&amp;fp=chrome&amp;security=reality&amp;pbk=yWZ2PQ3Wytrm0vEIMqxD5_LnqlFQBL-RujWD_8ldyBo&amp;sid=9200225c5aaf#🇳🇱 Netherlands
 vless://f2fa2843-5614-4fa7-99fe-da22f7307ad8@137.175.84.77:32066?type=tcp&amp;security=reality&amp;pbk=-LeP2n_qttyDuBpYQA8a7q4AOYeQGOkkaxnyLlb8vgo&amp;fp=chrome&amp;sni=apple.com&amp;sid=4f27&amp;spx=/&amp;flow=xtls-rprx-vision#🇺🇸 US 8477-8477
 vless://37b3a358-4648-4a16-97f8-d55c12aeae93@137.175.84.99:38448?type=tcp&amp;security=reality&amp;pbk=cY8GEjT96B3DoMSmcuTZbmIG3t94ra_5oUyOZaOTHn8&amp;fp=chrome&amp;sni=apple.com&amp;sid=01b8&amp;spx=/&amp;flow=xtls-rprx-vision#🇺🇸 US 8499-8499
