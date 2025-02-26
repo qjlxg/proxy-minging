@@ -80,10 +80,6 @@ trojan://414dff55-922a-4dc8-b5d3-b6517942b25a@east.eeeeeef998.buzz:15006?allowIn
 trojan://414dff55-922a-4dc8-b5d3-b6517942b25a@east.eeeeeef998.buzz:15002?allowInsecure=1&amp;sni=data.steamdownload.top#美国+2
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@135.125.172.153:443#法国
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkUFc2U0toVmZxRGV2QmZkcnQ1ZUpn@95.164.87.138:63830#美国
-trojan://67eb147db1c0f8c5@60.249.28.59:443?mode=gun&amp;security=tls&amp;alpn=h2&amp;type=grpc&amp;serviceName=db&amp;sni=007.com#grpc-TW
-hysteria2://iMqY3uG_5pgEj3hCfyHB-0vB@143.198.235.49:443?security=tls&amp;insecure=1#🇺🇸美国 无限
-hy2://iMqY3uG_5pgEj3hCfyHB-0vB@143.198.235.49:443/?insecure=1#🇺🇸美国 加利福尼亚州 圣克拉拉 DIGITALOCEAN-ASN（使劲造）
-vmess://eyJhZGQiOiJbMmEwMTo0Zjk6NmI6NGE4ZjpiNDo6Yl0iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYzUxZTE0MDUtM2QxMi00MjU2LThjZmQtYWE0NWIyOTIzMjdmIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIxMDEiLCJwcyI6IuiKrOWFsCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 hysteria2://dongtaiwang.com@195.154.33.70:13861?security=tls&amp;insecure=1&amp;sni=www.bing.com#🇫🇷 法国
 vless://4de74123-0081-4a83-98ef-a965aadddf0d@13.125.140.64:17846?flow=xtls-rprx-vision&amp;pbk=0WkLmthMQa0QtM9kuHsJQsobK1dwqIsn2sAJp7Zyiy0&amp;security=reality&amp;sni=www.iij.ad.jp&amp;type=tcp#aws-seoul
 vmess://eyJhZGQiOiJkZG5zLXR3MDIucGxub2RlLnh5eiIsImFpZCI6IjEiLCJob3N0IjoiIiwiaWQiOiI3YmI3OGQzZS1jMWNlLTQzMGQtYjBhYi1jZDg1ZmFiZDA5YzUiLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0Ijo4OTAxLCJwcyI6IlNTUlRPT0wuQ09NIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
