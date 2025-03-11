@@ -1,11 +1,16 @@
-name: Fetch Subscriptions
+name: Fetch Subscriptions Source
 
 # 触发条件
 on:
   workflow_dispatch:
 
   schedule:
-    - cron: '0 3,12 * * *'
+    - cron: '0 */4 * * *'
+  watch:
+    types: started
+  # - cron: '0 3,12 * * *'
+  # -'0 */4 * * *'
+  # -该规则表示每天从 0 点开始，每隔 4 个小时执行一次任务
   # 表达式生成  https://crontab.guru/
 
  
@@ -20,10 +25,10 @@ jobs:
     - name: 安装Python
       uses: actions/setup-python@v2
       with:
-        python-version: '3.11.6'
+        python-version: '3.x'
       
     - name: 加载缓存
-      uses: actions/cache@v2
+      uses: actions/cache@v4
       with:
         path: ~/.cache/pip
         key: ${{ runner.os }}-pip-${{ hashFiles('**/run_in_Actions/requirements.txt') }}
