@@ -1,16 +1,11 @@
-name: Fetch Subscriptions Source
+name: Fetch Subscriptions
 
 # 触发条件
 on:
   workflow_dispatch:
 
   schedule:
-    - cron: '0 */4 * * *'
-  watch:
-    types: started
-  # - cron: '0 3,12 * * *'
-  # -'0 */4 * * *'
-  # -该规则表示每天从 0 点开始，每隔 4 个小时执行一次任务
+    - cron: '0 * * * *'
   # 表达式生成  https://crontab.guru/
 
  
@@ -20,12 +15,12 @@ jobs:
     steps:
 
     - name: 迁出代码
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
 
     - name: 安装Python
       uses: actions/setup-python@v2
       with:
-        python-version: '3.x'
+        python-version: '3.11.6'
       
     - name: 加载缓存
       uses: actions/cache@v4
